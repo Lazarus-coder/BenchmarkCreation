@@ -34,3 +34,6 @@
 - [ ] Document findings.
 
 ---
+## Contribution:
+- Literature Review: 1. collect 2. crticize
+- Coding and Eva.
