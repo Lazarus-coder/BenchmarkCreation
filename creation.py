@@ -1,30 +1,32 @@
-import openai
+import requests
 import json
-import random
+
+API_URL = "https://api.deepinfra.com/v1/openai/chat/completions"
+API_KEY = "your_api_key_here"
+HEADERS = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
 
 
-# Load MMLU dataset (Placeholder function)
+# Load MMLU dataset
 def load_mmlu_data():
-    """Load original MCQs from the MMLU dataset."""
     with open("mmlu_data.json", "r") as f:
         return json.load(f)
 
 
-# Generate distractors using LLM
+# Generate distractors using DeepInfra API
 def generate_distractor(prompt):
-    """Use an LLM to generate distractors based on a given prompt."""
-    response = openai.ChatCompletion.create(
-        model="gpt-4",  # Adjust model accordingly
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                  {"role": "user", "content": prompt}],
-        max_tokens=50
-    )
-    return response["choices"][0]["message"]["content"].strip()
+    payload = {
+        "model": "mistralai/Mistral-7B-Instruct-v0.1",  # Adjust model if needed
+        "messages": [{"role": "system", "content": "You are a helpful assistant."},
+                     {"role": "user", "content": prompt}],
+        "max_tokens": 50
+    }
+    response = requests.post(API_URL, headers=HEADERS, json=payload)
+    response_data = response.json()
+    return response_data.get("choices", [{}])[0].get("message", {}).get("content", "").strip()
 
 
 # Generate weak and moderate distractors
 def generate_distractors(question, correct_answer):
-    """Generate weak and moderate distractors using LLM prompts."""
     weak_prompt = f"""
     Given the following question and its correct answer, generate a distractor that is obviously incorrect.
     The distractor should:
@@ -52,9 +54,8 @@ def generate_distractors(question, correct_answer):
     return weak_distractor, moderate_distractor
 
 
-# Extract and process MMLU data
+# Process MMLU dataset
 def process_mmlu_data():
-    """Extract MMLU questions and generate distractors."""
     data = load_mmlu_data()
     testsets = []
 
