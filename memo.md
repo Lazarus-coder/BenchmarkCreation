@@ -2,7 +2,7 @@
 
 ⸻
 
-🔍 What We Did
+🔍 What We Didd
 
 We successfully built and tested an LLM-based benchmark pipeline for evaluating distractor effects on multiple-choice questions (MCQs) using the RACE dataset. The key steps:
 
