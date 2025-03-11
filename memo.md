@@ -85,4 +85,6 @@ By following these steps, we create a scalable, reusable benchmark:
 	2.	Improve distractor quality with better multi-stage prompts.
 	3.	Re-run score_tracker.py & data_analysis.py on larger data.
 	4.	Start integrating multiple LLMs via API switching.
+	5.  MMLU-law SAT
+	6.  SpaCy,  
 
