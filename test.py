@@ -1,7 +1,11 @@
 import json
 import os
-from openai import OpenAI
+import time
 import random
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+from openai import OpenAI
 
 # Set API key
 api_key = os.getenv("OPENAI_API_KEY")
@@ -24,7 +28,7 @@ output_file = "llm_evaluation_results.json"
 
 
 def query_llm(question, options):
-    """Query LLM to answer the MCQ question."""
+    """Query LLM to answer the MCQ question and measure response time."""
     prompt = (
         f"Read the question and select the best answer from the provided options.\n\n"
         f"Question: {question}\n\n"
@@ -32,11 +36,11 @@ def query_llm(question, options):
         f"Respond with the best answer choice exactly as it appears."
     )
 
-    print(f"\n🔍 DEBUG: Sending to LLM:\n{prompt}")  # Debugging
-
     try:
+        start_time = time.time()  # Start timing
+
         response = client.chat.completions.create(
-            model="o3-mini-2025-01-31",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant answering multiple-choice questions."},
                 {"role": "user", "content": prompt}
@@ -44,16 +48,21 @@ def query_llm(question, options):
             max_tokens=50,
             temperature=0.3
         )
-        return response.choices[0].message.content.strip()
+
+        end_time = time.time()  # End timing
+        response_time = end_time - start_time
+
+        return response.choices[0].message.content.strip(), response_time
     except Exception as e:
         print(f"⚠️ LLM API Error: {e}")
-        return "Error"
+        return "Error", None
 
 
 def evaluate_llm():
-    """Evaluate LLM accuracy across the original and generated distractor sets."""
+    """Evaluate LLM accuracy and response time across different distractor sets."""
     results = []
     accuracy_summary = {}
+    response_time_summary = {}
 
     for file in distractor_files:
         with open(file, 'r', encoding='utf-8') as f:
@@ -61,6 +70,8 @@ def evaluate_llm():
 
         correct_count = 0
         total_questions = len(data)
+        total_response_time = 0
+        num_valid_responses = 0
 
         for entry in data:
             question = entry["question"]
@@ -79,34 +90,41 @@ def evaluate_llm():
             # Shuffle options to prevent positional bias
             random.shuffle(options)
 
-            # Debugging: Print question and options before sending to LLM
-            print(f"\n📌 Testing question: {question}")
-            print(f"✔️ Correct Answer: {correct_answer}")
-            print(f"📊 Options Given: {options}")
-
-            llm_answer = query_llm(question, options)
+            llm_answer, response_time = query_llm(question, options)
             is_correct = llm_answer == correct_answer
 
             if is_correct:
                 correct_count += 1
+
+            if response_time is not None:
+                total_response_time += response_time
+                num_valid_responses += 1
 
             results.append({
                 "question": question,
                 "correct_answer": correct_answer,
                 "llm_answer": llm_answer,
                 "is_correct": is_correct,
+                "response_time": response_time,
                 "distractor_set": file.replace(".json", "")
             })
 
-        # Calculate accuracy for this dataset
+        # Calculate accuracy and average response time
         accuracy = round((correct_count / total_questions) * 100, 2) if total_questions > 0 else 0.0
-        accuracy_summary[file.replace(".json", "")] = accuracy
+        avg_response_time = round((total_response_time / num_valid_responses), 3) if num_valid_responses > 0 else None
 
-        print(f"✅ {file}: Accuracy = {accuracy}% ({correct_count}/{total_questions} correct)")
+        accuracy_summary[file.replace(".json", "")] = accuracy
+        response_time_summary[file.replace(".json", "")] = avg_response_time
+
+        print(f"✅ {file}: Accuracy = {accuracy}% ({correct_count}/{total_questions} correct), Avg Response Time = {avg_response_time} sec")
 
     # Save results in a structured format for analysis
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump({"detailed_results": results, "accuracy_summary": accuracy_summary}, f, indent=4)
+        json.dump({
+            "detailed_results": results,
+            "accuracy_summary": accuracy_summary,
+            "response_time_summary": response_time_summary
+        }, f, indent=4)
 
     print(f"✅ LLM evaluation results saved to {output_file}, ready for analysis.")
 
