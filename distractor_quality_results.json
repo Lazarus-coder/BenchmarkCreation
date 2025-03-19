@@ -1,0 +1,2502 @@
+[
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.6,
+            0.3568,
+            0.47491039426523296,
+            0.35967741935483877,
+            0.40888888888888886,
+            0.4536290322580645,
+            0.4189435336976321,
+            0.2587090163934426,
+            0.47491039426523296
+        ],
+        "semantic_similarities": [
+            0.8255723714828491,
+            0.49818146228790283,
+            0.6700150966644287,
+            0.5572943687438965,
+            0.4144588112831116,
+            0.6083132028579712,
+            0.46527165174484253,
+            0.35239529609680176,
+            0.628241777420044
+        ],
+        "legal_relevance_scores": [
+            0.07142857142857142,
+            0.08333333333333333,
+            0.08333333333333333,
+            0.0,
+            0.07692307692307693,
+            0.07692307692307693,
+            0.0,
+            0.0,
+            0.08333333333333333
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.4211007356643677
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.49778172138420584,
+            0.26302083333333337,
+            0.35830999066293184,
+            0.26084710743801653,
+            0.37077294685990336,
+            0.26976495726495725,
+            0.31794871794871804,
+            0.12931034482758622,
+            0.26976495726495725
+        ],
+        "semantic_similarities": [
+            0.8064221143722534,
+            0.3987342119216919,
+            0.5903021097183228,
+            0.28166723251342773,
+            0.6584472060203552,
+            0.46131640672683716,
+            0.548647403717041,
+            0.16578108072280884,
+            0.33716881275177
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.47094565629959106
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.13392857142857142,
+            0.13513513513513511,
+            0.18348623853211007,
+            0.08849557522123894,
+            0.1851851851851852,
+            0.13392857142857142,
+            0.13392857142857142,
+            0.0925925925925926,
+            0.2895642201834862
+        ],
+        "semantic_similarities": [
+            0.5375726222991943,
+            0.526078462600708,
+            0.49450111389160156,
+            0.5112171769142151,
+            0.6241496205329895,
+            0.4559940993785858,
+            0.5152415037155151,
+            0.34043413400650024,
+            0.41890019178390503
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.38322311639785767
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.5262155911552345,
+            0.21582733812949637,
+            0.28270874424720577,
+            0.26733595008051525,
+            0.32424443506062617,
+            0.3900429951896471,
+            0.4059921841076856,
+            0.14492753623188406,
+            0.36249014972419225
+        ],
+        "semantic_similarities": [
+            0.7913458347320557,
+            0.7026721239089966,
+            0.6697038412094116,
+            0.6714392900466919,
+            0.6399242877960205,
+            0.6612793207168579,
+            0.6666391491889954,
+            0.588141918182373,
+            0.5859647393226624
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.045454545454545456,
+            0.0,
+            0.038461538461538464
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.20673441886901855
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.3333333333333333,
+            0.5943152454780362,
+            0.5943152454780362,
+            0.22727272727272727,
+            0.5943152454780362,
+            0.5943152454780362,
+            0.32608695652173914,
+            0.5943152454780362,
+            0.5943152454780362
+        ],
+        "semantic_similarities": [
+            0.5546510815620422,
+            0.7282288670539856,
+            0.7439903020858765,
+            0.5687520503997803,
+            0.6880661249160767,
+            0.6178648471832275,
+            0.5407029986381531,
+            0.6083632111549377,
+            0.6652928590774536
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.2,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2966764569282532
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.3125,
+            0.3125,
+            0.30303030303030304,
+            0.29411764705882354,
+            0.30303030303030304,
+            0.30303030303030304,
+            0.3125,
+            0.3125,
+            0.3125
+        ],
+        "semantic_similarities": [
+            0.511616051197052,
+            0.4155501127243042,
+            0.46877235174179077,
+            0.5068004131317139,
+            0.5062620639801025,
+            0.5530205965042114,
+            0.4200141429901123,
+            0.4715207815170288,
+            0.4968879520893097
+        ],
+        "legal_relevance_scores": [
+            0.25,
+            0.25,
+            0.0,
+            0.16666666666666666,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.25
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.36754024028778076
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "semantic_similarities": [
+            0.27869534492492676,
+            0.2887444496154785,
+            0.3138941824436188,
+            0.38756710290908813,
+            0.27247822284698486,
+            0.16997015476226807,
+            0.10380713641643524,
+            0.18560808897018433,
+            0.19354505836963654
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.6261218786239624
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.44238683127572015,
+            0.23427960927960922,
+            0.36805968178517195,
+            0.2564662228527775,
+            0.38170855978260865,
+            0.25784507351327635,
+            0.1648351648351648,
+            0.3837943989071038,
+            0.2606477373558119
+        ],
+        "semantic_similarities": [
+            0.8460689783096313,
+            0.6433044075965881,
+            0.7697969079017639,
+            0.7460437417030334,
+            0.7465386390686035,
+            0.6805262565612793,
+            0.7090389728546143,
+            0.6555553674697876,
+            0.6720229387283325
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2081281542778015
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.1750380517503805,
+            0.9258007838897149,
+            0.20000000000000004,
+            0.49932885906040264,
+            0.23648648648648649,
+            0.5792207792207793,
+            0.1342281879194631,
+            0.9258007838897149,
+            0.1689189189189189
+        ],
+        "semantic_similarities": [
+            0.5559496879577637,
+            0.9081723690032959,
+            0.6633483171463013,
+            0.7423367500305176,
+            0.6616170406341553,
+            0.662934422492981,
+            0.5558946132659912,
+            0.9338468909263611,
+            0.5574327707290649
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.35462385416030884
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractor_set": "mmlu_law_distractors_set1",
+        "meteor_scores": [
+            0.7519964507542148,
+            0.5555555555555555,
+            0.5380116959064328,
+            0.7519964507542148,
+            0.4000000000000001,
+            0.598404255319149,
+            0.4000000000000001,
+            0.5380116959064328,
+            0.4694736842105264
+        ],
+        "semantic_similarities": [
+            0.6139914989471436,
+            0.8296719789505005,
+            0.6314750909805298,
+            0.774686336517334,
+            0.5547297596931458,
+            0.6658455729484558,
+            0.5471354722976685,
+            0.7394126653671265,
+            0.4411056637763977
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2732904553413391
+    },
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.46875,
+            0.16666666666666666,
+            0.2608471074380165,
+            0.30491803278688523,
+            0.36557377049180323,
+            0.20491803278688522,
+            0.30000000000000004,
+            0.35967741935483877,
+            0.08130081300813008
+        ],
+        "semantic_similarities": [
+            0.7885172367095947,
+            0.5452815294265747,
+            0.40545493364334106,
+            0.6789212226867676,
+            0.5029757022857666,
+            0.6543110013008118,
+            0.5962644815444946,
+            0.39150914549827576,
+            0.389568567276001
+        ],
+        "legal_relevance_scores": [
+            0.1111111111111111,
+            0.1111111111111111,
+            0.1111111111111111,
+            0.0,
+            0.0,
+            0.0,
+            0.07692307692307693,
+            0.07692307692307693,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.4239201545715332
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.5021482277121375,
+            0.26976495726495725,
+            0.49778172138420584,
+            0.2652310924369748,
+            0.3234782608695652,
+            0.2203065134099617,
+            0.36757662835249044,
+            0.267478813559322,
+            0.35830999066293184
+        ],
+        "semantic_similarities": [
+            0.7665625214576721,
+            0.5083590745925903,
+            0.5530951023101807,
+            0.5037128925323486,
+            0.5894359350204468,
+            0.283128559589386,
+            0.5481650829315186,
+            0.3228280544281006,
+            0.4869175851345062
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.379541277885437
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.1801801801801802,
+            0.18691588785046728,
+            0.09174311926605504,
+            0.13636363636363635,
+            0.1388888888888889,
+            0.09090909090909091,
+            0.14018691588785046,
+            0.0900900900900901,
+            0.13636363636363635
+        ],
+        "semantic_similarities": [
+            0.5626586675643921,
+            0.6794143915176392,
+            0.37885019183158875,
+            0.5357769727706909,
+            0.3954049348831177,
+            0.5095691680908203,
+            0.4255419373512268,
+            0.3889448046684265,
+            0.46348994970321655
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.397882878780365
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.3870288991509012,
+            0.3112327656123276,
+            0.21468772694262891,
+            0.3112327656123276,
+            0.45250896057347667,
+            0.28069658236644274,
+            0.3331665506439262,
+            0.2894059168762726,
+            0.23122710622710618
+        ],
+        "semantic_similarities": [
+            0.7795097827911377,
+            0.6226476430892944,
+            0.6698670983314514,
+            0.546639084815979,
+            0.8129056096076965,
+            0.6725534796714783,
+            0.6824387311935425,
+            0.48410993814468384,
+            0.5031230449676514
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.22835975885391235
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.6084656084656085,
+            0.6084656084656085,
+            0.34090909090909094,
+            0.6084656084656085,
+            0.6084656084656085,
+            0.6084656084656085,
+            0.6084656084656085,
+            0.23255813953488375,
+            0.6084656084656085
+        ],
+        "semantic_similarities": [
+            0.7243399024009705,
+            0.7239718437194824,
+            0.5525877475738525,
+            0.7107266187667847,
+            0.679658830165863,
+            0.6358094215393066,
+            0.6710802912712097,
+            0.5529981255531311,
+            0.6268053650856018
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.2
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.27589964866638184
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.30303030303030304,
+            0.3125,
+            0.30303030303030304,
+            0.30303030303030304,
+            0.3125,
+            0.30303030303030304,
+            0.29411764705882354,
+            0.30303030303030304,
+            0.3125
+        ],
+        "semantic_similarities": [
+            0.5162345170974731,
+            0.4442010819911957,
+            0.4784058928489685,
+            0.5038809776306152,
+            0.48762547969818115,
+            0.46996307373046875,
+            0.43978768587112427,
+            0.46130257844924927,
+            0.40235790610313416
+        ],
+        "legal_relevance_scores": [
+            0.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.395072340965271
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "semantic_similarities": [
+            0.2786954641342163,
+            0.258722722530365,
+            0.3918156027793884,
+            0.21838241815567017,
+            0.2904342710971832,
+            0.08088269084692001,
+            0.36816781759262085,
+            0.2662281394004822,
+            0.4591766595840454
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.6553428173065186
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.31111357586512867,
+            0.46488107693380754,
+            0.23557397176181705,
+            0.4702152060986306,
+            0.2620720419315267,
+            0.4874316939890711,
+            0.4189435336976321,
+            0.2592388306674021,
+            0.4496390744113878
+        ],
+        "semantic_similarities": [
+            0.8238705396652222,
+            0.8127015233039856,
+            0.7647122144699097,
+            0.7641979455947876,
+            0.7369778752326965,
+            0.7359505891799927,
+            0.771817684173584,
+            0.695496678352356,
+            0.7207098007202148
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.162544846534729
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.536388422818792,
+            0.9258007838897149,
+            0.248,
+            0.16666666666666666,
+            0.37910528449790515,
+            0.8444521792938081,
+            0.7833059210526317,
+            0.23648648648648649,
+            0.31552094522019336
+        ],
+        "semantic_similarities": [
+            0.6809758543968201,
+            0.9081723690032959,
+            0.6554703116416931,
+            0.6621735692024231,
+            0.7141593098640442,
+            0.852475643157959,
+            0.820763349533081,
+            0.664351224899292,
+            0.5887075662612915
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3658682107925415
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractor_set": "mmlu_law_distractors_set2",
+        "meteor_scores": [
+            0.33223684210526316,
+            0.49010989010989015,
+            0.3357712765957447,
+            0.4694736842105264,
+            0.39157894736842114,
+            0.40760869565217384,
+            0.33223684210526316,
+            0.4694736842105264,
+            0.27777777777777773
+        ],
+        "semantic_similarities": [
+            0.4647149443626404,
+            0.6418308019638062,
+            0.3817402124404907,
+            0.5342293381690979,
+            0.5028096437454224,
+            0.585343599319458,
+            0.3228600025177002,
+            0.5451182126998901,
+            0.3073563575744629
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.08333333333333333,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.369415283203125
+    },
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.5574156746031746,
+            0.44999999999999996,
+            0.46737213403880074,
+            0.36260162601626017,
+            0.4189435336976321,
+            0.4536290322580645,
+            0.511849901250823,
+            0.36260162601626017,
+            0.36260162601626017
+        ],
+        "semantic_similarities": [
+            0.8242324590682983,
+            0.6017490029335022,
+            0.6844844818115234,
+            0.5079172849655151,
+            0.6452497839927673,
+            0.5965456962585449,
+            0.6556406021118164,
+            0.3933911919593811,
+            0.48050355911254883
+        ],
+        "legal_relevance_scores": [
+            0.06666666666666667,
+            0.07692307692307693,
+            0.07692307692307693,
+            0.0,
+            0.0,
+            0.07692307692307693,
+            0.0,
+            0.0,
+            0.08333333333333333
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.38955724239349365
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.32631578947368417,
+            0.2587090163934426,
+            0.49778172138420584,
+            0.4444444444444444,
+            0.2768640350877193,
+            0.22417153996101363,
+            0.40990755276469565,
+            0.38448275862068965,
+            0.31794871794871804
+        ],
+        "semantic_similarities": [
+            0.5484392046928406,
+            0.4077887535095215,
+            0.6691594123840332,
+            0.5213181972503662,
+            0.41792112588882446,
+            0.3050075173377991,
+            0.6830291748046875,
+            0.4685205817222595,
+            0.47263994812965393
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.4208924174308777
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.13392857142857142,
+            0.08849557522123894,
+            0.28434684684684686,
+            0.09523809523809526,
+            0.13761467889908255,
+            0.09345794392523364,
+            0.18348623853211007,
+            0.09345794392523364,
+            0.14018691588785046
+        ],
+        "semantic_similarities": [
+            0.5511766076087952,
+            0.5557572841644287,
+            0.6103870272636414,
+            0.4195746183395386,
+            0.4334339201450348,
+            0.39711934328079224,
+            0.4304761588573456,
+            0.4747079610824585,
+            0.39554423093795776
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.42330509424209595
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.3259759056659997,
+            0.21352313167259782,
+            0.2515666152029788,
+            0.31237281237281234,
+            0.21157631061012708,
+            0.31843360289108086,
+            0.26666666666666666,
+            0.1818181818181818,
+            0.29045830202854994
+        ],
+        "semantic_similarities": [
+            0.6630151271820068,
+            0.7088854908943176,
+            0.6035001277923584,
+            0.6690802574157715,
+            0.5321488380432129,
+            0.607835054397583,
+            0.5318208336830139,
+            0.5752003192901611,
+            0.6456176042556763
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.043478260869565216,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2183106541633606
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.6084656084656085,
+            0.34090909090909094,
+            0.6084656084656085,
+            0.8928571428571429,
+            0.6084656084656085,
+            0.6233062330623306,
+            0.6084656084656085,
+            0.22727272727272727,
+            0.6084656084656085
+        ],
+        "semantic_similarities": [
+            0.7243399024009705,
+            0.5451412200927734,
+            0.7439903020858765,
+            0.8573241233825684,
+            0.6880661249160767,
+            0.5507292151451111,
+            0.6267825365066528,
+            0.4880315661430359,
+            0.6652928590774536
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.2,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3145873546600342
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.3125,
+            0.3125,
+            0.29411764705882354,
+            0.30303030303030304,
+            0.3125,
+            0.30303030303030304,
+            0.30303030303030304,
+            0.26315789473684215,
+            0.30303030303030304
+        ],
+        "semantic_similarities": [
+            0.5116161108016968,
+            0.44420120120048523,
+            0.4660187363624573,
+            0.5038808584213257,
+            0.4876255393028259,
+            0.49906614422798157,
+            0.5720202922821045,
+            0.4454408288002014,
+            0.49168282747268677
+        ],
+        "legal_relevance_scores": [
+            0.25,
+            0.0,
+            0.16666666666666666,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3605787754058838
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381,
+            0.2380952380952381
+        ],
+        "semantic_similarities": [
+            0.2698628306388855,
+            0.38120460510253906,
+            0.27107349038124084,
+            0.2889161705970764,
+            0.17707985639572144,
+            0.1859576255083084,
+            0.22218750417232513,
+            0.1366165727376938,
+            0.36460813879966736
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.6603590250015259
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.31111357586512867,
+            0.2021739130434783,
+            0.28603830645161293,
+            0.3430777716492002,
+            0.277099609375,
+            0.2185792349726776,
+            0.3755848930481283,
+            0.2032786885245902,
+            0.2592388306674021
+        ],
+        "semantic_similarities": [
+            0.8510896563529968,
+            0.7781479358673096,
+            0.7210315465927124,
+            0.7780630588531494,
+            0.7267512679100037,
+            0.7136569023132324,
+            0.7411080002784729,
+            0.6321267485618591,
+            0.6574916839599609
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2118823528289795
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.9258007838897149,
+            0.9258007838897149,
+            0.32702702702702696,
+            0.9258007838897149,
+            0.9258007838897149,
+            0.9258007838897149,
+            0.9258007838897149,
+            0.4934210526315789,
+            0.9258007838897149
+        ],
+        "semantic_similarities": [
+            0.9384483695030212,
+            0.9122622609138489,
+            0.613108217716217,
+            0.9187475442886353,
+            0.9172440767288208,
+            0.9221208095550537,
+            0.9234079122543335,
+            0.642609715461731,
+            0.9271494150161743
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.18147212266921997
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractor_set": "mmlu_law_distractors_set3",
+        "meteor_scores": [
+            0.4000000000000001,
+            0.1595744680851064,
+            0.32538659793814434,
+            0.15789473684210528,
+            0.2662037037037037,
+            0.33223684210526316,
+            0.15789473684210528,
+            0.598404255319149,
+            0.15789473684210528
+        ],
+        "semantic_similarities": [
+            0.5411368608474731,
+            0.3726857900619507,
+            0.5932835340499878,
+            0.5296443104743958,
+            0.41705697774887085,
+            0.5000777244567871,
+            0.3496355414390564,
+            0.6392889022827148,
+            0.27736222743988037
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.07692307692307693,
+            0.1,
+            0.09090909090909091,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.34533339738845825
+    },
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.5487060546875,
+            0.3568,
+            0.44642857142857145,
+            0.368595041322314,
+            0.41553748870822044,
+            0.30000000000000004,
+            0.4787714543812105,
+            0.36557377049180323,
+            0.29296875
+        ],
+        "semantic_similarities": [
+            0.8192647695541382,
+            0.5785717964172363,
+            0.7130131125450134,
+            0.47095346450805664,
+            0.4007253050804138,
+            0.43780025839805603,
+            0.6232587099075317,
+            0.4509871304035187,
+            0.44030308723449707
+        ],
+        "legal_relevance_scores": [
+            0.06666666666666667,
+            0.07142857142857142,
+            0.0,
+            0.1111111111111111,
+            0.0,
+            0.0,
+            0.09090909090909091,
+            0.09090909090909091,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.41057467460632324
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.3613465160075329,
+            0.26084710743801653,
+            0.36443494776828106,
+            0.21475256769374415,
+            0.4934904996481351,
+            0.21842355175688508,
+            0.37077294685990336,
+            0.26302083333333337,
+            0.31794871794871804
+        ],
+        "semantic_similarities": [
+            0.6768699884414673,
+            0.3182305693626404,
+            0.6339085102081299,
+            0.3253730237483978,
+            0.5661438703536987,
+            0.2880333960056305,
+            0.6386741399765015,
+            0.30578362941741943,
+            0.5344886779785156
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.42308247089385986
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.13636363636363635,
+            0.09174311926605504,
+            0.08771929824561403,
+            0.1851851851851852,
+            0.0900900900900901,
+            0.14285714285714285,
+            0.13761467889908255,
+            0.0925925925925926,
+            0.13636363636363635
+        ],
+        "semantic_similarities": [
+            0.5891479849815369,
+            0.4773988127708435,
+            0.5163173675537109,
+            0.6335852146148682,
+            0.37222516536712646,
+            0.43015962839126587,
+            0.49632033705711365,
+            0.42145395278930664,
+            0.4767499268054962
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.37861448526382446
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.4196768593189964,
+            0.3056551174830745,
+            0.2883611301727481,
+            0.3089774557165861,
+            0.1624548736462094,
+            0.3401360544217687,
+            0.2883611301727481,
+            0.28425634540160577,
+            0.301334903808402
+        ],
+        "semantic_similarities": [
+            0.8604061007499695,
+            0.7227593660354614,
+            0.6558384299278259,
+            0.5692046880722046,
+            0.5707635283470154,
+            0.6548120975494385,
+            0.6608791351318359,
+            0.6505374312400818,
+            0.5415892601013184
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.05263157894736842,
+            0.0,
+            0.0,
+            0.047619047619047616,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2242540717124939
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.5555555555555556,
+            0.22727272727272727,
+            0.5555555555555556,
+            0.3333333333333333,
+            0.8720930232558141,
+            0.5943152454780362,
+            0.32608695652173914,
+            0.5943152454780362,
+            0.5555555555555556
+        ],
+        "semantic_similarities": [
+            0.7048073410987854,
+            0.5944861769676208,
+            0.7075339555740356,
+            0.5276179313659668,
+            0.8171087503433228,
+            0.6522077322006226,
+            0.5407029986381531,
+            0.6688644886016846,
+            0.6192687749862671
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.125
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2756834030151367
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.25,
+            0.2702702702702703,
+            0.26315789473684215,
+            0.6388888888888888,
+            0.25641025641025644,
+            0.25,
+            0.2702702702702703,
+            0.6725146198830408,
+            0.25
+        ],
+        "semantic_similarities": [
+            0.48898744583129883,
+            0.41163063049316406,
+            0.4310017228126526,
+            0.5514693856239319,
+            0.4613695740699768,
+            0.4228372275829315,
+            0.4621169865131378,
+            0.49435102939605713,
+            0.4957616329193115
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.1,
+            0.0,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3612881302833557
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "semantic_similarities": [
+            0.24854320287704468,
+            0.2616773545742035,
+            0.38719961047172546,
+            0.4051055312156677,
+            0.2850971817970276,
+            0.30536454916000366,
+            0.1923547089099884,
+            0.2073201984167099,
+            0.20178373157978058
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.6295706033706665
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.26496786559927843,
+            0.10989010989010987,
+            0.2317330917874396,
+            0.2317330917874396,
+            0.2875844594594594,
+            0.2620720419315267,
+            0.21739130434782605,
+            0.1639344262295082,
+            0.2891474184782608
+        ],
+        "semantic_similarities": [
+            0.8363091945648193,
+            0.4621344804763794,
+            0.7376127243041992,
+            0.5959468483924866,
+            0.6588030457496643,
+            0.7339913845062256,
+            0.716947078704834,
+            0.6040948033332825,
+            0.6403281092643738
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3053874969482422
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.536388422818792,
+            0.9258007838897149,
+            0.25306122448979596,
+            0.19867549668874174,
+            0.9258007838897149,
+            0.23489932885906042,
+            0.26666666666666666,
+            0.17151379567486955,
+            0.9258007838897149
+        ],
+        "semantic_similarities": [
+            0.6737309098243713,
+            0.9081723690032959,
+            0.6267882585525513,
+            0.6537314653396606,
+            0.9252115488052368,
+            0.6120609641075134,
+            0.6543878316879272,
+            0.5071347951889038,
+            0.938614010810852
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.35183173418045044
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractor_set": "mmlu_law_distractors_set4",
+        "meteor_scores": [
+            0.4043478260869566,
+            0.3357712765957447,
+            0.40760869565217384,
+            0.27479091995221033,
+            0.625,
+            0.39157894736842114,
+            0.40760869565217384,
+            0.33938172043010756,
+            0.4694736842105264
+        ],
+        "semantic_similarities": [
+            0.5343887805938721,
+            0.3855382800102234,
+            0.624687671661377,
+            0.3509042263031006,
+            0.6828821897506714,
+            0.40430811047554016,
+            0.4373062252998352,
+            0.32691043615341187,
+            0.6001771688461304
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.36058658361434937
+    },
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.6,
+            0.47491039426523296,
+            0.36557377049180323,
+            0.5202408832385413,
+            0.3024390243902439,
+            0.41553748870822044,
+            0.35396825396825404,
+            0.4711111111111111,
+            0.41218637992831536
+        ],
+        "semantic_similarities": [
+            0.8255723714828491,
+            0.6681215763092041,
+            0.49118009209632874,
+            0.7618633508682251,
+            0.4712424874305725,
+            0.3838512897491455,
+            0.47736436128616333,
+            0.5919672250747681,
+            0.4905620515346527
+        ],
+        "legal_relevance_scores": [
+            0.07142857142857142,
+            0.08333333333333333,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.06666666666666667,
+            0.07142857142857142,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3881944417953491
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.45231071779744353,
+            0.4406130268199234,
+            0.3234782608695652,
+            0.26976495726495725,
+            0.37402534113060426,
+            0.2203065134099617,
+            0.3234782608695652,
+            0.21842355175688508,
+            0.32631578947368417
+        ],
+        "semantic_similarities": [
+            0.6979495286941528,
+            0.6426020860671997,
+            0.4978572130203247,
+            0.5234745144844055,
+            0.636141300201416,
+            0.22773513197898865,
+            0.5590751767158508,
+            0.3024182915687561,
+            0.3512316942214966
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.45480984449386597
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.13636363636363635,
+            0.18691588785046728,
+            0.09174311926605504,
+            0.1388888888888889,
+            0.18181818181818182,
+            0.14150943396226412,
+            0.09345794392523364,
+            0.09433962264150944,
+            0.18348623853211007
+        ],
+        "semantic_similarities": [
+            0.5805732011795044,
+            0.5907852053642273,
+            0.5175161957740784,
+            0.43962153792381287,
+            0.4378141760826111,
+            0.45084184408187866,
+            0.42670270800590515,
+            0.44045671820640564,
+            0.5105612277984619
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.3827698230743408
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.4579848665870171,
+            0.17985611510791366,
+            0.33938172043010756,
+            0.2461565804674309,
+            0.28527154663518295,
+            0.3078620136381869,
+            0.42702915681639086,
+            0.26446136997212266,
+            0.322495735854619
+        ],
+        "semantic_similarities": [
+            0.7838338017463684,
+            0.6789382696151733,
+            0.5405157804489136,
+            0.5527210235595703,
+            0.5482627153396606,
+            0.6288310289382935,
+            0.7029309272766113,
+            0.4886423349380493,
+            0.5240629315376282
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.043478260869565216,
+            0.0,
+            0.0,
+            0.047619047619047616,
+            0.043478260869565216
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.24139446020126343
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.6084656084656085,
+            0.6084656084656085,
+            0.34090909090909094,
+            0.6084656084656085,
+            0.6084656084656085,
+            0.5679012345679012,
+            0.3333333333333333,
+            0.6084656084656085,
+            0.8928571428571429
+        ],
+        "semantic_similarities": [
+            0.7243399024009705,
+            0.7239718437194824,
+            0.5525877475738525,
+            0.7017189264297485,
+            0.6880661249160767,
+            0.6005752682685852,
+            0.5407029986381531,
+            0.646115779876709,
+            0.8172253370285034
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.125,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2830806374549866
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.30303030303030304,
+            0.30303030303030304,
+            0.3125,
+            0.30303030303030304,
+            0.3125,
+            0.3125,
+            0.30303030303030304,
+            0.30303030303030304,
+            0.30303030303030304
+        ],
+        "semantic_similarities": [
+            0.5162345170974731,
+            0.47912025451660156,
+            0.4502294659614563,
+            0.5038809776306152,
+            0.48762547969818115,
+            0.3942708373069763,
+            0.4930195212364197,
+            0.46130257844924927,
+            0.49168282747268677
+        ],
+        "legal_relevance_scores": [
+            0.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.25,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.39732080698013306
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727,
+            0.22727272727272727
+        ],
+        "semantic_similarities": [
+            0.2951129078865051,
+            0.2645784616470337,
+            0.34030914306640625,
+            0.7608019709587097,
+            0.4000832438468933,
+            0.20894670486450195,
+            0.22074377536773682,
+            0.2914624810218811,
+            0.20788589119911194
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.6039290428161621
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.23299939283545842,
+            0.25784507351327635,
+            0.2032786885245902,
+            0.22801544860368386,
+            0.2606477373558119,
+            0.20108108108108108,
+            0.16129032258064518,
+            0.25784507351327635,
+            0.2606477373558119
+        ],
+        "semantic_similarities": [
+            0.8248672485351562,
+            0.6517181992530823,
+            0.69725501537323,
+            0.7442774176597595,
+            0.6685967445373535,
+            0.6828591823577881,
+            0.6865847110748291,
+            0.6279476284980774,
+            0.5486388206481934
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.2611413598060608
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.9258007838897149,
+            0.10000000000000002,
+            0.9258007838897149,
+            0.9258007838897149,
+            0.9258007838897149,
+            0.13513513513513511,
+            0.9258007838897149,
+            0.16233766233766236,
+            0.19867549668874174
+        ],
+        "semantic_similarities": [
+            0.9384483695030212,
+            0.49523746967315674,
+            0.9257358908653259,
+            0.9073261022567749,
+            0.9252115488052368,
+            0.6033229827880859,
+            0.9352458715438843,
+            0.558225691318512,
+            0.6580241918563843
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "grammar_scores": [
+            1.0,
+            0.9375,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.27820611000061035
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractor_set": "mmlu_law_distractors_set5",
+        "meteor_scores": [
+            0.3875,
+            0.4694736842105264,
+            0.6543235851041447,
+            0.32538659793814434,
+            0.4694736842105264,
+            0.39574468085106385,
+            0.5798969072164949,
+            0.3795918367346939,
+            0.45510204081632655
+        ],
+        "semantic_similarities": [
+            0.5328931212425232,
+            0.5187646150588989,
+            0.8366212248802185,
+            0.3777478039264679,
+            0.6157140731811523,
+            0.5621074438095093,
+            0.6995367407798767,
+            0.43712759017944336,
+            0.5544196963310242
+        ],
+        "legal_relevance_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.07142857142857142
+        ],
+        "grammar_scores": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "distractor_diversity_score": 0.29782265424728394
+    }
+]

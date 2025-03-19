@@ -1,0 +1,500 @@
+{
+    "detailed_results": [
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force to take possession of the purse.",
+            "is_correct": false,
+            "response_time": 1.0997140407562256,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.8423409461975098,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "It unreasonably discriminates against non-English speaking voters in general.",
+            "is_correct": false,
+            "response_time": 0.5023379325866699,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "The defendant was justified in using reasonable force in the woman's defense, since his belief that she was in immediate danger of unlawful bodily harm from the man was both objectively and subjectively reasonable.",
+            "is_correct": false,
+            "response_time": 0.7601349353790283,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "guilty of second-degree murder, due to the commission of a dangerous act.",
+            "is_correct": false,
+            "response_time": 0.4284510612487793,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "not guilty, if he did not use force or threats.",
+            "is_correct": false,
+            "response_time": 0.5482809543609619,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "not hostile.",
+            "is_correct": false,
+            "response_time": 3.116241931915283,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "She must produce the MRI scan as it is a tangible evidence and can be examined by the court.",
+            "is_correct": false,
+            "response_time": 0.5779159069061279,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "discharged because more than 180 days passed between arrest and the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.6966829299926758,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "admissible, as bearing on the defendant's credibility.",
+            "is_correct": false,
+            "response_time": 0.4469289779663086,
+            "distractor_set": "mmlu_law_original"
+        },
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force in leaving with the purse.",
+            "is_correct": true,
+            "response_time": 0.7650377750396729,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.6611652374267578,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "1. It violates the rights of voters to choose candidates freely without any restrictions on how they express their choice.",
+            "is_correct": false,
+            "response_time": 0.9322009086608887,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "2. The defendant could use reasonable force to protect the woman, regardless of her true intentions, since he acted in good faith.",
+            "is_correct": false,
+            "response_time": 0.8252379894256592,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "7. Not guilty due to lack of intent.",
+            "is_correct": false,
+            "response_time": 0.41951990127563477,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "not guilty.",
+            "is_correct": true,
+            "response_time": 0.5742850303649902,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "4. unauthorized",
+            "is_correct": false,
+            "response_time": 0.3902852535247803,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "is_correct": true,
+            "response_time": 1.0522189140319824,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "2. brought to trial within 30 days of the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.6475930213928223,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "5. admissible, because the testimony supports the prosecution's case.",
+            "is_correct": false,
+            "response_time": 0.9088790416717529,
+            "distractor_set": "mmlu_law_distractors_set1"
+        },
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force in leaving with the purse.",
+            "is_correct": true,
+            "response_time": 1.328084945678711,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.430523157119751,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "8. It limits the ability of voters to express their preferences in a manner consistent with their cultural practices.",
+            "is_correct": false,
+            "response_time": 0.7258739471435547,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "1. The defendant was justified in using force to protect the woman because he believed she was in immediate danger.",
+            "is_correct": false,
+            "response_time": 0.6115031242370605,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "1. guilty of first-degree murder.",
+            "is_correct": false,
+            "response_time": 0.38660287857055664,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "not guilty.",
+            "is_correct": true,
+            "response_time": 0.43274688720703125,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "3. hostile",
+            "is_correct": false,
+            "response_time": 0.4090909957885742,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "9. She must produce the MRI records because they are the only way to substantiate her claim of malpractice.",
+            "is_correct": false,
+            "response_time": 0.4859609603881836,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "2. brought to trial within 30 days of the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.537855863571167,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "3. admissible, because it provides context for the defendant's actions.",
+            "is_correct": false,
+            "response_time": 0.5118088722229004,
+            "distractor_set": "mmlu_law_distractors_set2"
+        },
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force in leaving with the purse.",
+            "is_correct": true,
+            "response_time": 0.6762709617614746,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.4482390880584717,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "3. It infringes on the candidate's right to equal protection by favoring established party candidates over write-in candidates.",
+            "is_correct": false,
+            "response_time": 0.6148538589477539,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "is_correct": true,
+            "response_time": 0.7167129516601562,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "5. guilty of negligent homicide.",
+            "is_correct": false,
+            "response_time": 1.0085270404815674,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "not guilty.",
+            "is_correct": true,
+            "response_time": 0.39145827293395996,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "2. Unauthorized",
+            "is_correct": false,
+            "response_time": 0.5456368923187256,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "is_correct": true,
+            "response_time": 0.5116262435913086,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "1. brought to trial within 30 days of the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.6145920753479004,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "1. admissible, because it directly contradicts the defendant's testimony.",
+            "is_correct": false,
+            "response_time": 0.6141338348388672,
+            "distractor_set": "mmlu_law_distractors_set3"
+        },
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force in leaving with the purse.",
+            "is_correct": true,
+            "response_time": 1.0220699310302734,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.615825891494751,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "5. It contradicts the principle of voter choice by limiting the methods in which voters can express their preferences.",
+            "is_correct": false,
+            "response_time": 0.8180701732635498,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "4. The defendant was entitled to use force because he acted in good faith to protect someone he believed was being harmed.",
+            "is_correct": false,
+            "response_time": 0.8214020729064941,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "7. Not guilty due to lack of intent.",
+            "is_correct": false,
+            "response_time": 0.5100209712982178,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "8. not guilty due to the passenger's misleading invitation.",
+            "is_correct": false,
+            "response_time": 0.40988802909851074,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "3. unauthorized",
+            "is_correct": false,
+            "response_time": 0.44619202613830566,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "is_correct": true,
+            "response_time": 0.5775947570800781,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "2. brought to trial within 30 days of the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.6672632694244385,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "1. admissible, because it corroborates the defendant's testimony.",
+            "is_correct": false,
+            "response_time": 0.5606639385223389,
+            "distractor_set": "mmlu_law_distractors_set4"
+        },
+        {
+            "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+            "correct_answer": "Robbery, because he used force in leaving with the purse.",
+            "llm_answer": "Robbery, because he used force in leaving with the purse.",
+            "is_correct": true,
+            "response_time": 0.6131138801574707,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+            "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "llm_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+            "is_correct": true,
+            "response_time": 0.6144280433654785,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+            "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+            "llm_answer": "3. It imposes an undue burden on voters by requiring them to write instead of allowing alternatives.",
+            "is_correct": false,
+            "response_time": 0.6157121658325195,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+            "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+            "llm_answer": "7. The defendant was justified in using force since he had no way of knowing the woman was the aggressor, thus he acted reasonably under the circumstances.",
+            "is_correct": false,
+            "response_time": 0.9212002754211426,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+            "correct_answer": "guilty of manslaughter.",
+            "llm_answer": "5. guilty of negligent homicide.",
+            "is_correct": false,
+            "response_time": 0.6139509677886963,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+            "correct_answer": "not guilty.",
+            "llm_answer": "not guilty.",
+            "is_correct": true,
+            "response_time": 0.5123589038848877,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+            "correct_answer": "permissive.",
+            "llm_answer": "1. Adverse.",
+            "is_correct": false,
+            "response_time": 0.5646369457244873,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+            "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "llm_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+            "is_correct": true,
+            "response_time": 0.663661003112793,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+            "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+            "llm_answer": "3. brought to trial within 15 days of the hearing on the motion to discharge.",
+            "is_correct": false,
+            "response_time": 0.7181539535522461,
+            "distractor_set": "mmlu_law_distractors_set5"
+        },
+        {
+            "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+            "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+            "llm_answer": "6. admissible, because the testimony directly contradicts the defendant's claims.",
+            "is_correct": false,
+            "response_time": 0.534080982208252,
+            "distractor_set": "mmlu_law_distractors_set5"
+        }
+    ],
+    "accuracy_summary": {
+        "mmlu_law_original": 10.0,
+        "mmlu_law_distractors_set1": 40.0,
+        "mmlu_law_distractors_set2": 30.0,
+        "mmlu_law_distractors_set3": 50.0,
+        "mmlu_law_distractors_set4": 30.0,
+        "mmlu_law_distractors_set5": 40.0
+    },
+    "response_time_summary": {
+        "mmlu_law_original": 0.902,
+        "mmlu_law_distractors_set1": 0.718,
+        "mmlu_law_distractors_set2": 0.586,
+        "mmlu_law_distractors_set3": 0.614,
+        "mmlu_law_distractors_set4": 0.645,
+        "mmlu_law_distractors_set5": 0.637
+    }
+}

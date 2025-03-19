@@ -1,0 +1,152 @@
+[
+    {
+        "question": "A woman was standing in the aisle of a subway car and put her purse on the seat next to her. A man approached the woman from behind and grabbed the purse off the seat. He then pushed the woman out of the way and ran out of the subway car while carrying the purse. The man was apprehended on the subway platform while in possession of the purse. In a jurisdiction that follows the common law with respect to criminal offenses, of what crime can the man properly be convicted?",
+        "correct_answer": "Robbery, because he used force in leaving with the purse.",
+        "distractors": {
+            "1": "1. Theft, because he took the purse without permission but did not use force.",
+            "2": "2. Assault, because he pushed the woman out of the way during the incident.",
+            "3": "3. Burglary, because he illegally entered the subway car to take the purse.",
+            "4": "4. Shoplifting, because he stole an item while in a public transport setting.",
+            "5": "5. Battery, because he made physical contact with the woman when he pushed her.",
+            "6": "6. Fraud, because he intended to deceive the woman by taking her purse.",
+            "7": "7. Vandalism, because he caused a disturbance in the subway car.",
+            "8": "8. Disturbing the peace, because his actions created a public nuisance.",
+            "9": "9. Trespassing, because he occupied the seat without permission after taking the purse."
+        }
+    },
+    {
+        "question": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?",
+        "correct_answer": "Yes, because a corporation has no Fifth Amendment privilege.",
+        "distractors": {
+            "1": "1. No, because the Fifth Amendment protects corporations from any form of self-incrimination.",
+            "2": "2. Yes, but only if the corporation can prove it had prior knowledge of the oil spill risks.",
+            "3": "3. No, because the subpoena violates the corporation's right to free speech under the First Amendment.",
+            "4": "4. Yes, but only if the grand jury can demonstrate that the emails are relevant to a criminal case.",
+            "5": "5. No, because the corporation can assert attorney-client privilege over its internal communications.",
+            "6": "6. Yes, but the corporation is entitled to redact any sensitive information from the documents.",
+            "7": "7. No, because the corporation's shareholders have the right to privacy regarding internal documents.",
+            "8": "8. Yes, but only for emails sent after the spill occurred, not before.",
+            "9": "9. No, because the subpoena is overly broad and not specific enough to be enforceable."
+        }
+    },
+    {
+        "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+        "correct_answer": "It unreasonably discriminates against write-in candidates for public office.",
+        "distractors": {
+            "1": "1. It violates the rights of voters to choose candidates freely without any restrictions on how they express their choice.",
+            "2": "2. It infringes upon the candidate's First Amendment rights by limiting their ability to communicate with voters effectively.",
+            "3": "3. It prevents voters from supporting candidates who may not have the resources for traditional campaigning methods.",
+            "4": "4. It imposes an undue burden on voters by requiring them to write instead of allowing them to use alternative methods.",
+            "5": "5. It violates the Equal Protection Clause by treating write-in candidates differently than formally registered candidates.",
+            "6": "6. It restricts the candidate's ability to reach out to voters through innovative means, thereby stifling political expression.",
+            "7": "7. It creates an unnecessary barrier to participation for those with disabilities who may struggle to write on the ballot.",
+            "8": "8. It undermines the democratic process by limiting the options available to voters on the ballot.",
+            "9": "9. It discriminates against voters who prefer to use visual aids or other non-traditional methods of voting."
+        }
+    },
+    {
+        "question": "The defendant was walking down the street when he saw a woman struggling with a man over a briefcase. Unbeknownst to the defendant, the woman had just stolen the briefcase from the man on the street. Believing the woman to be the victim of an attack, the defendant intervened and punched the man until the woman was able to get away with the briefcase. Confused as to why he wasn't being hailed as a hero by the woman, the defendant eventually realized that he had been an unwitting accomplice to the woman's theft. The defendant apologized profusely to the man and went home. According to the alter ego rule, which of the following statements is correct with respect to the amount of force that the defendant was entitled to use in the woman's defense?",
+        "correct_answer": "Not knowing the true facts, the defendant was not justified in using force to protect the woman because the man was privileged to recapture his briefcase.",
+        "distractors": {
+            "1": "1. The defendant was justified in using force to protect the woman because he believed she was in immediate danger from the man.",
+            "2": "2. The defendant could use reasonable force to protect the woman, regardless of her true intentions, since he acted in good faith.",
+            "3": "3. The defendant was entitled to use deadly force against the man, as he perceived a serious threat to the woman\u2019s safety.",
+            "4": "4. The defendant's intervention was justified under the principle of self-defense, as he believed the man was attacking the woman.",
+            "5": "5. The defendant could use any amount of force necessary to protect the woman, considering the circumstances appeared life-threatening.",
+            "6": "6. The defendant was legally justified in using force because he was acting as a Good Samaritan, regardless of the woman's actions.",
+            "7": "7. The defendant was entitled to use force to protect the woman, as he had a moral obligation to intervene in what he thought was an assault.",
+            "8": "8. The defendant could legally defend the woman with force, as he was unaware of her criminal behavior and acted instinctively.",
+            "9": "9. The defendant was justified in using force because the law allows individuals to act on their perceptions of danger, even if they are later proven wrong."
+        }
+    },
+    {
+        "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+        "correct_answer": "guilty of manslaughter.",
+        "distractors": {
+            "1": "1. Not guilty by reason of insanity.",
+            "2": "2. Guilty of first-degree murder.",
+            "3": "3. Guilty of second-degree murder.",
+            "4": "4. Not guilty due to self-defense.",
+            "5": "5. Guilty of negligent homicide.",
+            "6": "6. Guilty of felony murder.",
+            "7": "7. Not guilty due to lack of intent.",
+            "8": "8. Guilty of aggravated assault.",
+            "9": "9. Guilty of reckless endangerment."
+        }
+    },
+    {
+        "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+        "correct_answer": "not guilty.",
+        "distractors": {
+            "1": "1. guilty of assault.",
+            "2": "2. guilty of battery.",
+            "3": "3. guilty of sexual harassment.",
+            "4": "4. guilty of attempted sexual assault.",
+            "5": "5. guilty of indecent exposure.",
+            "6": "6. guilty of false imprisonment.",
+            "7": "7. guilty of stalking.",
+            "8": "8. guilty of solicitation.",
+            "9": "9. guilty of trespassing."
+        }
+    },
+    {
+        "question": "A widower was the record owner of a lemon grove, a 30-acre parcel of land in a suburb. The widower lived in a farmhouse on the lemon grove and used the property to raise produce. Adjoining the lemon grove directly to the west was a 10-acre farm that was owned in fee simple by a farmer. There was a four-lane highway that adjoined the lemon grove directly to the east. The widower, by way of gift, executed a deed naming his daughter as grantee. The deed granted to the daughter and her heirs an antebellum mansion located near the southern edge of the lemon grove. The antebellum mansion was accessible by a little- used road that ran west to east from the farmlgrove border to the four-lane highway along the southern boundary of the grove. The daughter recorded her deed and took immediate possession of the property. A short while later, the daughter and the farmer fell in love and began seeing each other quite frequently. In order for the farmer to reach the daughter's house, it was necessary for him to travel over the little-used road across the lemon grove. Many years later, the farmer, who was still having an affair with the daughter, met her father at a Rotary Club meeting. They struck up a conversation, and the widower asked the farmer, \"Have you been driving your pickup along that little-used back road on my property?\" The farmer, who was afraid to tell the widower about his love affair with the daughter, responded with a half-truth, \"Yes, I've been using it as a shortcut to the four-lane highway. \" Unaware that the farmer was also using the path to get to the antebellum mansion to see the daughter, the widower said, \"No problem, I just wanted to be sure that it was you who was using the road. \"Thereafter, the widower found out about his daughter's relationship with the farmer. Infuriated, the widower confronted the farmer and told him, \"Listen, you lying sneak, if I catch you on my property again, I'm going to have you arrested for trespass. \" The farmer replied, \"Sorry, Pops, but I've acquired an easement over that roadway, and I'll continue to use it anytime I want. \"Then, the widower institutes an appropriate action to enjoin the farmer from using the roadway across the lemon grove. If the widower prevails, it will be because the farmer's use was",
+        "correct_answer": "permissive.",
+        "distractors": {
+            "1": "1. exclusive",
+            "2": "2. adverse",
+            "3": "3. prescriptive",
+            "4": "4. unauthorized",
+            "5": "5. illegal",
+            "6": "6. non-existent",
+            "7": "7. transient",
+            "8": "8. conditional",
+            "9": "9. incidental"
+        }
+    },
+    {
+        "question": "A patient who had surgery to repair a rupture in her spleen followed up with a full body MRI due to excruciating pain that had developed. During the MRI, the technicians saw at least two identifiable sponges that had been left in her body. She had to be hospitalized for additional surgery. The patient sued the hospital and doctor for medical malpractice. She did not produce the printouts of the MRI. Instead, she attempted to testify to what she observed on the MRI scan. The defense objected and insisted that she must produce the actual MRI printouts. What is the most likely ruling of the trial judge with respect to the objection?",
+        "correct_answer": "She must produce the MRI records because it represents the best evidence under the best evidence rule.",
+        "distractors": {
+            "1": "1. She does not need to produce the MRI records because her testimony is sufficient to establish the facts of the case.",
+            "2": "2. The judge will allow her testimony but will give less weight to it without the MRI records.",
+            "3": "3. She must produce the MRI records, but only if the defense can prove that the records are crucial to the case.",
+            "4": "4. The judge will rule that the MRI records are irrelevant and will allow the case to proceed based solely on her testimony.",
+            "5": "5. She must produce the MRI records only if the defense can demonstrate that they were altered or tampered with.",
+            "6": "6. The judge will decide that she can use her testimony in place of the MRI records since she is the patient.",
+            "7": "7. The court will allow her to summarize the MRI results without needing to provide the actual records.",
+            "8": "8. She must produce the MRI records, but the judge will grant her an extension to gather them.",
+            "9": "9. The judge will rule that the MRI records are only necessary if the case goes to a jury trial."
+        }
+    },
+    {
+        "question": "Defendant was arrested on February 1 and released one month later on March 1 after being charged with a felony. On December 1 of the same year as his arrest, he filed a motion to discharge since no trial or other action had occurred to that point. The court held a hearing 3 days after the motion was filed. Defendant should be",
+        "correct_answer": "brought to trial within 10 days of the hearing on the motion to discharge.",
+        "distractors": {
+            "1": "1. released from custody immediately after the motion was filed.",
+            "2": "2. brought to trial within 30 days of the hearing on the motion to discharge.",
+            "3": "3. required to wait an additional month after the hearing before going to trial.",
+            "4": "4. brought to trial within 15 days of the filing of the motion.",
+            "5": "5. placed on probation instead of going to trial after the hearing.",
+            "6": "6. entitled to a jury trial only if the hearing on the motion was held within 5 days.",
+            "7": "7. required to submit additional evidence before the court could schedule a trial.",
+            "8": "8. brought to trial within 20 days of the hearing on the motion to discharge.",
+            "9": "9. allowed to appeal the court's decision immediately after the hearing."
+        }
+    },
+    {
+        "question": "A defendant, on trial for robbery, took the stand and testified in his own behalf. On cross-examination, the prosecuting attorney asked the defendant whether he had committed false pretenses by making long-distance telephone calls by the unauthorized use of a credit card number. The defendant replied, \"That's a lie, I never did. \" In rebuttal, the prosecuting attorney called the court officer to testif' that the defendant admitted committing false pretenses. The court officer further testified, however, that the defendant was granted immunity from prosecution in exchange for his testimony against others. The court officer's testimony is",
+        "correct_answer": "inadmissible, because the testimony is extrinsic evidence.",
+        "distractors": {
+            "1": "1. admissible, because the testimony is considered relevant evidence.",
+            "2": "2. inadmissible, because the testimony violates the hearsay rule.",
+            "3": "3. admissible, because the testimony is corroborative of the defendant's claim.",
+            "4": "4. inadmissible, because the testimony is based on speculation.",
+            "5": "5. admissible, because the testimony supports the prosecution's case.",
+            "6": "6. inadmissible, because the court officer is not a credible witness.",
+            "7": "7. admissible, because the testimony reveals the defendant's character.",
+            "8": "8. inadmissible, because the testimony was not presented during the initial examination.",
+            "9": "9. admissible, because the court officer's testimony establishes a prior conviction."
+        }
+    }
+]

@@ -1,0 +1,1652 @@
+[
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Oral fixation stage",
+            "2": "Ego development stage",
+            "3": "Latency conflict stage"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Class Inheritance: A principle where classes can only inherit from one parent class, limiting their versatility and reuse potential.",
+            "2": "Object Instantiation: A process that requires global variables, leading to tightly coupled code that is hard to maintain.",
+            "3": "Encapsulation: A mechanism that restricts access to all methods and properties, preventing any interaction with an object's data."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person believes they are in a generally unsafe area and wants to prevent any possible crime.",
+            "2": "When the person suspects someone might commit a crime in the future and intends to prevent it proactively.",
+            "3": "When the person feels threatened by someone\u2019s aggressive behavior, even if there is no immediate threat of serious harm."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Routine in-office blood pressure measurement, which can provide an immediate snapshot of blood pressure levels but fails to account for fluctuations throughout the day.",
+            "2": "Electrocardiogram (ECG), useful for assessing heart rhythm and detecting heart problems but does not measure blood pressure trends over an extended period.",
+            "3": "Basic metabolic panel, which evaluates kidney function and electrolyte balance but does not directly assess blood pressure variations over time."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae - Although it can cause pneumonia, it is less common than Streptococcus pneumoniae in community settings.",
+            "2": "Mycobacterium tuberculosis - This bacterium causes tuberculosis, which can affect the lungs, but it is not classified as a common cause of community-acquired pneumonia.",
+            "3": "Staphylococcus aureus - While it can lead to pneumonia, it is more commonly associated with healthcare-associated infections rather than community-acquired cases."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Providing essential nutrients and vitamins for overall body function",
+            "2": "Enhancing muscle growth and repair by increasing protein absorption",
+            "3": "Boosting immune system function by directly fighting off pathogens"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdm\u00b2v",
+            "3": "mv\u00b2/2m"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because an expert witness testified that the blade guard was more dangerous than alternative designs, making the lawnmower automatically defective.",
+            "2": "The defendant, because compliance with government safety regulations conclusively proves that the product is not defective.",
+            "3": "The plaintiff, because the mere fact of injury while using the lawnmower is sufficient to establish liability."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis through ribosomal activity",
+            "2": "DNA replication and genetic information storage",
+            "3": "Photosynthesis and glucose conversion in animal cells"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll, which absorbs only green light to initiate the process",
+            "2": "Stomata, which release only carbon dioxide during the day",
+            "3": "Thylakoid membranes, where oxygen is solely produced without light"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "John Locke - While Locke discussed governance and individual rights, his version of the social contract emphasized the protection of life, liberty, and property, unlike Rousseau's focus on general will and collective sovereignty.",
+            "2": "Thomas Hobbes - Hobbes did explore the social contract in his work \"Leviathan,\" but his perspective was centered on the need for absolute authority to avoid chaos, unlike Rousseau's vision of democratic participation.",
+            "3": "Immanuel Kant - Kant was influenced by the idea of the social contract and discussed it in relation to moral philosophy, but he did not develop it as a political theory in the way Rousseau did."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C2 - Often confused with vitamin C, but does not exist as a recognized water-soluble vitamin.",
+            "2": "Vitamin B17 - Commonly cited in alternative medicine circles but not recognized as a legitimate water-soluble vitamin by scientific consensus.",
+            "3": "Vitamin P - Sometimes referred to in the context of bioflavonoids, but not classified as an essential water-soluble vitamin."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x\u00b2 - 2x + 0",
+            "2": "3x - 2",
+            "3": "6x - 2x + 5"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n)",
+            "2": "O(n log n^2)",
+            "3": "O(n log n + n^2)"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 2, y = 3",
+            "2": "x = 3, y = 1",
+            "3": "x = 1, y = 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv, which states that force is equal to mass times velocity, implying a relationship between force and momentum without accounting for acceleration.",
+            "2": "F = ma^2, which suggests that force is proportional to the square of the acceleration, introducing an incorrect mathematical relationship.",
+            "3": "F = m/a, implying that force is equal to mass divided by acceleration, incorrectly suggesting that greater acceleration reduces the force."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang - He was a prominent figure in ancient Chinese history, known for founding the Han dynasty, but he was not the first emperor of China.",
+            "2": "Sun Tzu - Renowned as a military strategist and author of \"The Art of War,\" he was never an emperor or ruler of China.",
+            "3": "Kublai Khan - A significant ruler of the Mongol Empire and founder of the Yuan dynasty, but he came long after the first unification of China under an emperor."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II, which ended with the signing of the Treaty of Trianon",
+            "2": "The Napoleonic Wars, concluded by the Treaty of Paris in 1815",
+            "3": "The Crimean War, resolved through the Treaty of Berlin in 1856"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence due to their distinctiveness.",
+            "2": "The tendency to forget items presented in the middle of a sequence because they are less memorable than the first and last items.",
+            "3": "The tendency to remember items presented last in a sequence because they are frequently rehearsed and linked to prior knowledge."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act only according to that maxim which results in the greatest happiness for the greatest number of people.",
+            "2": "Act only according to that maxim which aligns with your personal desires and intentions at any given moment.",
+            "3": "Act only according to that maxim which benefits you personally, as long as it does not harm others."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Han Gaozu - While he was a significant emperor, he founded the Han Dynasty and not the first imperial dynasty in China.",
+            "2": "Liu Bang - He was the first emperor of the Han Dynasty, which succeeded the Qin Dynasty, but he was not the first emperor of China.",
+            "3": "Wu Zetian - She was the only female emperor in Chinese history, ruling the Zhou Dynasty much later than the Qin Dynasty."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Aiding in the absorption of essential vitamins and minerals into the bloodstream",
+            "2": "Providing the body with a quick source of energy for immediate physical activities",
+            "3": "Supporting the production of enzymes necessary for breaking down proteins and fats"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because the expert's testimony proves that the blade guard was inherently dangerous, regardless of compliance with government regulations.",
+            "2": "The defendant, because compliance with government safety regulations automatically establishes that the product was not defective.",
+            "3": "The defendant, because the plaintiff's injury was solely due to misuse of the lawnmower, not the design of the blade guard."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n) - This suggests a polynomial factor similar to the worst-case complexity but blends it with the logarithmic term of the average case.",
+            "2": "O(log n) - This implies a logarithmic time complexity, which is plausible for some operations within the algorithm, but not for the entire sorting process.",
+            "3": "O(n^2) - This represents the worst-case time complexity, which can occur with poor pivot choices, but does not reflect the average case performance."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to remember the most frequently occurring items in a sequence better than those at the beginning or end.",
+            "2": "The tendency to recall items that were presented first in a sequence, due to their initial impact and lasting impression.",
+            "3": "The tendency to better remember items that were repeated multiple times throughout a sequence, rather than those at the start or end."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = 1",
+            "2": "x = 2, y = 0",
+            "3": "x = 1, y = 3"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Sensory phase",
+            "2": "Oral fixation period",
+            "3": "Latency transition stage"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel - While assessing electrolyte levels can provide valuable information about kidney function and potential secondary causes of hypertension, it does not directly measure blood pressure over time.",
+            "2": "ECG (Electrocardiogram) - An ECG can detect heart abnormalities that might result from prolonged hypertension but does not provide insight into fluctuating blood pressure levels during daily activities.",
+            "3": "Renal ultrasound - A renal ultrasound can identify structural abnormalities in the kidneys that might contribute to hypertension, but it does not offer continuous blood pressure monitoring needed for an accurate diagnosis."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes happiness for the greatest number, as long as it aligns with your personal goals.",
+            "2": "Follow rules that you think could be universal laws, but prioritize your own interests first.",
+            "3": "Make decisions based on what would be universally accepted as rational, without considering the consequences of your actions."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae - Although it can cause pneumonia, it is less common than Streptococcus pneumoniae in community settings.",
+            "2": "Mycoplasma pneumoniae - Known for causing atypical pneumonia, it is more frequent in younger populations but not the most common overall.",
+            "3": "Staphylococcus aureus - More associated with hospital-acquired infections, it is a rare cause of community-acquired pneumonia."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and distribution throughout the cell",
+            "2": "Storage of genetic information and regulation of cell division",
+            "3": "Detoxification of harmful substances and synthesis of lipids"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = ma\u00b2, which describes the acceleration of an object as proportional to the square of the net force applied.",
+            "2": "F = mv, indicating that force is equal to mass times velocity, describing how motion is initiated.",
+            "3": "F = m/a, suggesting that force is inversely proportional to acceleration, implying how resistance affects motion."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes - Known for his work on social contract theory, but his views emphasized a powerful sovereign rather than Rousseau's emphasis on collective will and democracy.",
+            "2": "Immanuel Kant - While he discussed moral philosophy and autonomy, he did not develop the social contract theory as central to his philosophy.",
+            "3": "Friedrich Nietzsche - Critiqued traditional moral values and concepts like democracy, but did not contribute to the development of social contract theory."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II, ending with the establishment of the United Nations",
+            "2": "The Franco-Prussian War, concluding with widespread disarmament in Europe",
+            "3": "The Crimean War, resulting in the redrawing of European borders"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B: While it does assist in capturing light energy, it is not involved in the primary electron transport chain for photosynthesis.",
+            "2": "NADP+: This molecule is indeed used in photosynthesis, but it primarily functions as a carrier for electrons and hydrogen ions, not directly in light capture.",
+            "3": "Stroma: Although it is the fluid where the Calvin cycle occurs, it does not directly absorb light energy for photosynthesis."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x - 5",
+            "2": "3x\u00b2 - 2",
+            "3": "6x\u00b2 - 2x"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Object encapsulation",
+            "2": "Class-based inheritance",
+            "3": "Dynamic polymorphism"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12 - While it is a water-soluble vitamin, it is unique because it can be stored in the liver for long periods, unlike most other water-soluble vitamins.",
+            "2": "Vitamin B6 - Although it is water-soluble, it is involved in the body's fat metabolism, leading to confusion about its solubility.",
+            "3": "Vitamin C - Known for its antioxidant properties, it is sometimes mistaken for a fat-soluble vitamin due to its role in protecting cell membranes."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels verbally threatened, even if there is no imminent physical danger.",
+            "2": "When the person is defending their property from being stolen, regardless of the threat level.",
+            "3": "When the person believes the other individual intends to commit a minor crime in the future."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes happiness for the greatest number of people, regardless of individual circumstances.",
+            "2": "Follow rules that would create the most efficient society, assuming everyone adheres to them.",
+            "3": "Base your actions on principles that are universally recognized as good, even if they are not applied universally."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C2 \u2013 While similar in name to Vitamin C, which is water-soluble, there is no such thing as Vitamin C2.",
+            "2": "B12 Complex \u2013 Although it sounds like a variant of the water-soluble B vitamins, \"B12 Complex\" is not a recognized water-soluble vitamin.",
+            "3": "Vitamin A3 \u2013 This fictional variant of Vitamin A, which is actually fat-soluble, does not exist as a water-soluble vitamin."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant - Although he contributed significantly to political philosophy and ethics, Kant did not primarily focus on the social contract theory, which is more closely associated with Rousseau and Hobbes.",
+            "2": "Friedrich Nietzsche - Known for his critiques of traditional morality and religion, Nietzsche's philosophy did not center around the development of the social contract concept.",
+            "3": "John Stuart Mill - A proponent of utilitarianism, Mill's work focused on individual liberty and social welfare rather than the foundational ideas of the social contract."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x - 5",
+            "2": "6x\u00b2 - 2",
+            "3": "3x - 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Oral fixation stage",
+            "2": "Phallic latency stage",
+            "3": "Genital identity stage"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because the expert witness testimony about the alternative design automatically proves the product was defective.",
+            "2": "The defendant, because adherence to government safety regulations means the product cannot be deemed defective.",
+            "3": "The plaintiff, because any injury sustained while using the product implies a defect in the product design."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel to assess for potential electrolyte imbalances causing hypertension",
+            "2": "Carotid ultrasound to evaluate for arterial blockages that might contribute to dizziness",
+            "3": "Echocardiogram to check for structural heart abnormalities causing elevated blood pressure"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mg (Newton's Second Law applies only to gravitational force)",
+            "2": "F = ma^2 (The formula incorrectly squares acceleration)",
+            "3": "F = mv (This formula incorrectly uses velocity instead of acceleration)"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall the first few items in a sequence due to their unique position.",
+            "2": "The ability to remember items in the middle of a sequence more vividly because they are surrounded by other items.",
+            "3": "The improved recall of items presented at random intervals in a sequence due to increased attention."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels threatened by someone who is unarmed and not attempting to cause serious harm.",
+            "2": "When the person wants to prevent a minor property crime being committed in their home.",
+            "3": "When the person believes that someone is behaving suspiciously in their neighborhood."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = 1",
+            "2": "x = 2, y = 3",
+            "3": "x = 1, y = 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma pneumoniae - Although it is a common cause of atypical pneumonia, it is not the most common cause of community-acquired pneumonia overall.",
+            "2": "Haemophilus influenzae - This bacterium can cause pneumonia, particularly in individuals with underlying health conditions, but it is less common than Streptococcus pneumoniae in the general population.",
+            "3": "Klebsiella pneumoniae - Known to cause severe pneumonia, particularly in alcoholics and individuals with weakened immune systems, but it is not the most prevalent cause of community-acquired pneumonia."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B - While it is a pigment involved in photosynthesis, it does not directly convert light energy into chemical energy like chlorophyll A does.",
+            "2": "Water - It is a reactant in photosynthesis, but it is not involved in the light-dependent reactions of photosynthesis.",
+            "3": "Carbonate Ions - Though carbon is essential for photosynthesis, carbonate ions are not directly utilized in the photosynthetic process."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Object encapsulation involves hiding all code logic, including public methods, to prevent external access completely.",
+            "2": "Inheritance strictly requires that all classes inherit from a base class to function properly in an object-oriented system.",
+            "3": "Polymorphism ensures that objects can only take on a single form, limiting flexibility and simplifying interaction."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Enhancing muscle growth and increasing protein synthesis",
+            "2": "Boosting cognitive function and improving short-term memory",
+            "3": "Regulating blood sugar levels and promoting insulin production"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "The Treaty of Versailles was signed at the end of the Franco-Prussian War, reshaping the boundaries of Germany and France.",
+            "2": "The Treaty of Versailles concluded the Crimean War and imposed reparations on the losing side.",
+            "3": "The Treaty of Versailles marked the end of the Napoleonic Wars and established a new balance of power in Europe."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang, who founded the Han Dynasty after the fall of the Qin Dynasty",
+            "2": "Sun Tzu, a military strategist whose writings influenced Chinese warfare but lived before the Qin Empire",
+            "3": "Wu Zetian, the only female emperor in Chinese history who ruled during the Tang Dynasty"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis through the translation of mRNA into amino acid chains",
+            "2": "Storage of genetic material and regulation of gene expression",
+            "3": "Detoxification of harmful substances and production of enzymes for digestion"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because any product that causes injury is automatically considered defective regardless of its compliance with government safety regulations.",
+            "2": "The defendant, because complying with government safety regulations guarantees that the product is safe and not defective.",
+            "3": "The defendant, because expert testimony alone cannot establish that a product design is defective if it meets industry standards."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae, known for causing respiratory infections, is the leading pathogen responsible for community-acquired pneumonia.",
+            "2": "Mycoplasma pneumoniae, primarily causing atypical pneumonia, is the predominant cause of all community-acquired pneumonia cases.",
+            "3": "Staphylococcus aureus, typically associated with hospital-acquired infections, is the most frequent cause of community-acquired pneumonia."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 2, y = -1",
+            "2": "x = 3, y = 1",
+            "3": "x = 1, y = 1"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n) - QuickSort can handle small datasets efficiently, but this does not account for the divide-and-conquer nature that actually results in O(n log n).",
+            "2": "O(log n) - While QuickSort does involve logarithmic partitions, the overall process involves multiple passes through the data, making this underestimate the complexity.",
+            "3": "O(n^2) - This represents the worst-case scenario when the pivot selection is poor, but in the average case, the algorithm generally achieves better balance and efficiency."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "Napoleonic Wars - The Treaty of Versailles was initially drafted to end the conflict between France and its rivals.",
+            "2": "Crimean War - The Treaty of Versailles concluded the hostilities between Russia and the allied powers in Europe.",
+            "3": "World War II - The Treaty of Versailles was signed to officially end the global conflict and establish the United Nations."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "m\u00b2v\u00b2",
+            "3": "\u00bdm\u00b2v"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Synthesis of proteins using genetic instructions from the nucleus",
+            "2": "Storage and release of calcium ions for cell signaling",
+            "3": "Detoxification of harmful substances and waste products"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12 - While it is an essential vitamin, it is actually water-soluble, unlike fat-soluble vitamins.",
+            "2": "Vitamin C - Known for its role in immune function, it is water-soluble, not fat-soluble.",
+            "3": "Vitamin K - Although important for blood clotting, it is primarily a fat-soluble vitamin, not water-soluble."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels threatened and believes that any use of force, including deadly force, is justified to protect their property from potential damage.",
+            "2": "When the person suspects that someone may commit a crime in the future and decides that taking preventive action by using deadly force is necessary to stop them.",
+            "3": "When the person is defending themselves against verbal threats or insults that could potentially escalate into physical violence at some point."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang, the founder of the Han Dynasty, who became emperor after the collapse of the Qin Dynasty.",
+            "2": "Sun Tzu, a military strategist from the Eastern Zhou period, mistakenly credited with unifying China.",
+            "3": "Wu Zetian, the only female emperor in Chinese history, who ruled during the Tang Dynasty long after the Qin Dynasty."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that seeks the greatest good for the greatest number, ensuring the happiness of the majority is maximized.",
+            "2": "Act according to a maxim that brings about the desired outcomes, provided it aligns with personal goals and intentions.",
+            "3": "Act only in ways that treat others as means to an end, as long as doing so aligns with societal norms and expectations."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B - This pigment plays a role in capturing light energy, but it is not the primary pigment used in photosynthesis, which is chlorophyll A.",
+            "2": "Stomata - These are openings on plant leaves involved in gas exchange, but they do not directly participate in the light-dependent reactions of photosynthesis.",
+            "3": "Thylakoid Membrane - While this is where the light-dependent reactions occur, it does not function independently from the rest of the chloroplast during photosynthesis."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv, where F is the force applied, m is the mass, and v is the velocity, suggesting that force is directly proportional to velocity.",
+            "2": "F = ma^2, where F is the force, m is the mass, and a is the acceleration squared, implying that force increases exponentially with acceleration.",
+            "3": "F = m/a, where F is the force, m is the mass, and a is the acceleration, indicating that force is inversely proportional to acceleration."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x\u00b2 - 2",
+            "2": "3x - 2",
+            "3": "6x + 5"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Dynamic typing - While dynamic typing is a feature of some programming languages, it is not a core principle of object-oriented programming, which instead focuses on concepts like encapsulation and inheritance.",
+            "2": "Compilation dependency - Although compilation is a part of the software development process, dependency management is not a foundational principle of object-oriented programming, which centers around concepts such as polymorphism and abstraction.",
+            "3": "State management - Managing state is an aspect of software development, but it is not a principle of object-oriented programming, which is more concerned with organizing code through objects and classes."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Echocardiogram to assess for left ventricular hypertrophy as the primary cause",
+            "2": "Serum electrolyte panel to identify potential kidney dysfunction as the main issue",
+            "3": "Renal ultrasound to directly visualize blood flow obstructions causing hypertension"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence due to their lasting impression.",
+            "2": "The tendency to remember items in the middle of a sequence more clearly because they are encoded with extra attention.",
+            "3": "The phenomenon where items presented at the start and end of a sequence are equally memorable due to their emotional impact."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Enhancing nutrient absorption by breaking down food particles in the stomach",
+            "2": "Increasing energy levels by providing a direct source of calories",
+            "3": "Strengthening the immune system by acting as a primary source of vitamins and minerals"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latent stage",
+            "2": "Anal phase",
+            "3": "Oral fixation stage"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes - Although known for his book \"Leviathan,\" which discusses the social contract, his view was more about absolute sovereignty than Rousseau's concept of collective will.",
+            "2": "John Locke - He contributed to social contract theory, focusing on natural rights and government by consent, but his views differ significantly from Rousseau's emphasis on direct democracy.",
+            "3": "Immanuel Kant - While he acknowledged the social contract in his moral philosophy, his primary focus was on duty and categorical imperatives, not the communal aspects highlighted by Rousseau."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence due to their distinctiveness.",
+            "2": "The tendency to remember all items in a sequence equally, regardless of their position, because of cognitive priming.",
+            "3": "The tendency to better recall items that were presented in the middle of a sequence due to their relative prominence."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "The Napoleonic Wars, which reshaped European borders in the early 19th century but ended with the Congress of Vienna rather than the Treaty of Versailles.",
+            "2": "The Franco-Prussian War, a conflict that led to the unification of Germany in 1871 and concluded with the Treaty of Frankfurt, not the Treaty of Versailles.",
+            "3": "The Crimean War, which took place in the mid-19th century and was resolved by the Treaty of Paris, not the Treaty of Versailles."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act according to any maxim that brings about the greatest happiness for the greatest number, as long as it can be universally applied.",
+            "2": "Follow maxims that ensure personal benefit, provided that they do not directly harm others and can be universalized.",
+            "3": "Act only according to maxims that align with societal norms and can be universally accepted within a given community."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x\u00b2 - 2x + 5",
+            "2": "6x + 5",
+            "3": "3x - 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Inheritance management",
+            "2": "Class encapsulation",
+            "3": "Dynamic binding configuration"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B, which is primarily responsible for absorbing green light, thus contributing minimally to photosynthesis.",
+            "2": "Xylem, which directly transports sugars produced during photosynthesis to the rest of the plant.",
+            "3": "Carotenoids, which are only involved in photoprotection and do not assist in light absorption for photosynthesis."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Oral fixation stage",
+            "2": "Latent phase of adolescence",
+            "3": "Anal maturity stage"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels threatened by any form of verbal aggression, even if there is no immediate threat of physical harm.",
+            "2": "When the person witnesses a crime being committed, regardless of whether they or anyone else is in immediate danger of death or serious bodily harm.",
+            "3": "When the person is defending their property from theft, even if there is no threat of death or serious bodily harm to themselves or others."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis by translating genetic information from RNA",
+            "2": "Storing genetic material and controlling cell division processes",
+            "3": "Detoxifying harmful substances and converting them into energy"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang - Although he was the founder of the Han Dynasty and became its first emperor, he was not the first emperor of China as a whole.",
+            "2": "Kublai Khan - He was a Mongol leader who established the Yuan Dynasty in China, but he was not the first emperor of China.",
+            "3": "Sun Tzu - Known for his work \"The Art of War,\" he was a military strategist, not an emperor."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12 - While it's a water-soluble vitamin, it can be stored in the liver for years, unlike other water-soluble vitamins.",
+            "2": "Vitamin C - Known to be water-soluble, it is sometimes mistaken for fat-soluble due to its antioxidant properties.",
+            "3": "Vitamin B7 - Commonly referred to as biotin, it is involved in fat metabolism, which might confuse it as fat-soluble."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because any design that causes injury is automatically considered defective regardless of compliance with safety regulations.",
+            "2": "The defendant, because adherence to government safety regulations guarantees the product is not defective.",
+            "3": "The defendant, because the plaintiff's injury was entirely due to misuse of the product, not a design defect."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 2, y = 3",
+            "2": "x = 1, y = 1",
+            "3": "x = 3, y = 1"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant - Known for his work on ethics and metaphysics, Kant's ideas influenced many areas of philosophy, including the concept of autonomy, which is often discussed in relation to social contracts, though he did not specifically develop a social contract theory.",
+            "2": "John Stuart Mill - A prominent philosopher in the realm of utilitarianism and individual liberty, Mill focused on the consequences of actions rather than agreements like the social contract, although he did discuss the role of society in promoting happiness.",
+            "3": "Friedrich Nietzsche - While Nietzsche explored themes of power and society, his philosophy was more critical of traditional moral systems, including the notion of collective agreements like the social contract, which he viewed as restricting the individual's will to power."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Aiding in muscle growth and repair through enhanced protein synthesis",
+            "2": "Boosting immune function by increasing white blood cell production",
+            "3": "Providing essential vitamins and minerals necessary for daily energy levels"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n) - Suggests an exaggerated term resembling the correct complexity but incorrect for analyzing average case scenarios.",
+            "2": "O(n^2) - While this is the worst-case complexity, it inaccurately represents the average case, misleading by focusing on less common scenarios.",
+            "3": "O(log n) - Implies a much faster complexity, confusing it with operations like binary search rather than sorting algorithms."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv, which states that force is the product of mass and velocity, describing how momentum changes with time.",
+            "2": "F = ma^2, which suggests that force is proportional to the square of acceleration, indicating a non-linear relationship.",
+            "3": "F = m/a, proposing that force is inversely proportional to acceleration, implying that an increase in acceleration decreases the force applied."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae - This bacterium can cause pneumonia, but it is more commonly associated with secondary infections rather than being the primary cause of community-acquired pneumonia.",
+            "2": "Mycoplasma pneumoniae - Known for causing atypical pneumonia, this organism is less prevalent than Streptococcus pneumoniae in community-acquired cases.",
+            "3": "Staphylococcus aureus - Although capable of causing pneumonia, particularly after viral infections, it is not the leading cause in the community setting."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Echocardiogram, as it can assess heart function but doesn't directly track blood pressure fluctuations over time.",
+            "2": "Blood glucose test, since it can rule out diabetes-related hypertension but doesn't monitor blood pressure variations.",
+            "3": "Renal ultrasound, which can detect kidney abnormalities influencing blood pressure but doesn't provide continuous blood pressure data."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes \u2013 Although he discussed the social contract in his work \"Leviathan,\" his view of the contract was more about the necessity of absolute sovereign power to prevent chaos, differing significantly from Rousseau's ideas on collective sovereignty and democracy.",
+            "2": "John Locke \u2013 He also wrote about the social contract, emphasizing natural rights and government by consent, but his ideas focused more on liberalism and property rights rather than the collective will and direct democracy that Rousseau emphasized.",
+            "3": "Immanuel Kant \u2013 He mentioned concepts related to social contracts in terms of moral philosophy and the categorical imperative, but his primary focus was on duty and ethics rather than the political and collective sovereignty that Rousseau highlighted."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "A. Act according to the maxim that ensures the greatest happiness for the greatest number, making it a universal guideline.",
+            "2": "B. Act only according to a maxim that you would personally agree with if it were to become a universal law for yourself.",
+            "3": "C. Act in a way that aligns with societal norms and customs, ensuring they could be universally accepted."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C - While it is essential for collagen synthesis and immune function, it is a water-soluble vitamin and not stored in large amounts in the body.",
+            "2": "Vitamin B12 - Although it plays a key role in brain health and red blood cell formation, it is a water-soluble vitamin that must be regularly consumed through diet.",
+            "3": "Vitamin B6 - Known for its role in amino acid metabolism and neurotransmitter synthesis, it is a water-soluble vitamin that needs to be replenished frequently."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to remember items from the middle of a sequence more accurately due to their distinctiveness.",
+            "2": "The ability to recall items more effectively when they are repeated frequently throughout a sequence.",
+            "3": "The tendency to recall items presented first in a sequence due to their primacy in the list."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "The Treaty of Versailles was signed at the end of the Franco-Prussian War, establishing new borders in Europe and imposing reparations on Germany.",
+            "2": "The Treaty of Versailles was signed at the end of the Crimean War, leading to significant territorial changes and the demilitarization of the Black Sea.",
+            "3": "The Treaty of Versailles was signed at the end of the Napoleonic Wars, redrawing the map of Europe and forming the basis for the League of Nations."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Inheritance overloading",
+            "2": "Encapsulation chaining",
+            "3": "Polymorphic aggregation"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Enhancing protein synthesis and building muscle mass",
+            "2": "Providing essential vitamins and minerals for cellular repair",
+            "3": "Increasing energy levels by rapidly converting into glucose"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Oral fixation stage",
+            "2": "Latency transition stage",
+            "3": "Genital transition phase"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae - While it can cause pneumonia, it is less common than Streptococcus pneumoniae in community settings.",
+            "2": "Mycoplasma pneumoniae - Often associated with atypical pneumonia, it does not surpass Streptococcus pneumoniae in prevalence for community-acquired cases.",
+            "3": "Klebsiella pneumoniae - Typically linked to hospital-acquired infections, it is not a leading cause of community-acquired pneumonia."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = 1",
+            "2": "x = 2, y = 0",
+            "3": "x = 1, y = 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = m/v",
+            "2": "F = ma\u00b2",
+            "3": "F = m + a"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel to assess for underlying electrolyte imbalances causing hypertension",
+            "2": "Renal ultrasound to immediately identify any structural kidney abnormalities contributing to high blood pressure",
+            "3": "Complete blood count to rule out elevated blood pressure caused by anemia or infection"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because compliance with government regulations automatically proves a defect in design.",
+            "2": "The defendant, as compliance with government safety regulations conclusively establishes that the product is not defective.",
+            "3": "The plaintiff, since the testimony of an expert witness always outweighs compliance with regulations."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n)",
+            "2": "O(n log n^2)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis through the translation of RNA sequences",
+            "2": "Detoxification of harmful substances using specialized enzymes",
+            "3": "Storage of genetic material and regulation of cell division"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person wants to protect their property from theft or vandalism, as long as the intruder poses a potential threat.",
+            "2": "When the person believes that using deadly force will prevent future crimes or ensure the broader safety of the community.",
+            "3": "When the person feels threatened by someone who is verbally aggressive and believes that showing force will de-escalate the situation."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x + 5",
+            "2": "3x - 2",
+            "3": "9x - 2x + 5"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang - While he was a significant historical figure who founded the Han Dynasty after the fall of the Qin Dynasty, he was not the first Emperor of China.",
+            "2": "Wu Zetian - As the only female emperor in Chinese history, she held power during the Tang Dynasty, long after the first emperor.",
+            "3": "Sun Tzu - Known for his military treatise \"The Art of War,\" he was a strategist and philosopher, not an emperor."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B: A lesser-known pigment that absorbs light for photosynthesis but primarily functions in respiration.",
+            "2": "Stroma: The fluid-filled space in chloroplasts that helps store sunlight energy but is mainly involved in cellular respiration.",
+            "3": "Carotenoids: Pigments that protect chlorophyll by absorbing excess light energy and are primarily responsible for energy storage during photosynthesis."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang - He was the founder of the Han Dynasty but not the first emperor of China.",
+            "2": "Kublai Khan - He was the founder of the Yuan Dynasty and a descendant of Genghis Khan, not the first emperor of China.",
+            "3": "Sun Yat-sen - He was a revolutionary leader who helped overthrow the Qing Dynasty, but he never declared himself emperor."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and energy storage for cellular activities",
+            "2": "DNA replication and repair for cell division",
+            "3": "Regulation of cell membrane permeability and ion balance"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Inheritance encapsulation",
+            "2": "Dynamic abstraction",
+            "3": "Class-based polymorphism"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act only according to that maxim which you believe benefits the greatest number of people, regardless of consequences.",
+            "2": "Act only according to that maxim which aligns with your personal goals and desires, ensuring it could be a universal preference.",
+            "3": "Act only according to that maxim which reflects the moral norms of society, assuming they represent universal laws."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x - 5",
+            "2": "3x\u00b2 - 2",
+            "3": "6x\u00b2 - 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence due to their distinctiveness.",
+            "2": "The tendency to remember only the most emotionally impactful items in a sequence, regardless of their position.",
+            "3": "The tendency to forget the middle items in a sequence due to cognitive overload at the beginning and end."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The defendant, because compliance with government safety regulations conclusively proves that the product was not defective.",
+            "2": "The plaintiff, because the existence of an alternative design automatically makes the current design defective.",
+            "3": "The defendant, because the manufacturer is immune from liability due to following industry standards."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C, known for its antioxidant properties, is often confused with fat-soluble vitamins like Vitamin D.",
+            "2": "Vitamin B12, although stored in the liver, is primarily water-soluble and doesn't accumulate like Vitamin A.",
+            "3": "Vitamin B6, essential for amino acid metabolism, resembles the fat-soluble Vitamin K in its role in blood function but remains water-soluble."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Enhancing the absorption of vitamins and minerals for better nutrient utilization",
+            "2": "Increasing energy levels by providing a direct source of glucose for quick fuel",
+            "3": "Reducing cholesterol absorption to completely eliminate the risk of heart disease"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n)",
+            "2": "O(n log n^2)",
+            "3": "O(n^2 / log n)"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B, which is only used in the respiration process",
+            "2": "Stomata, which exclusively facilitate the release of oxygen",
+            "3": "Xylem, which transports sugars produced during photosynthesis"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels threatened by any form of aggression, regardless of severity or immediacy",
+            "2": "When the person believes it is necessary to protect property from theft or damage, regardless of the threat level",
+            "3": "When the person witnesses a crime being committed, regardless of whether there is an immediate threat to anyone's life"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 2, y = 3",
+            "2": "x = 1, y = 1",
+            "3": "x = 3, y = 1"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v/2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = ma^2, which states that force is proportional to the square of acceleration.",
+            "2": "F = mv, which describes that force equals mass times velocity.",
+            "3": "F = m/a, implying that force is mass divided by acceleration."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "The Treaty of Versailles was signed at the end of the Franco-Prussian War, which laid the groundwork for World War I.",
+            "2": "The Treaty of Versailles ended the Crimean War, focusing on territorial disputes similar to those leading to World War I.",
+            "3": "The Treaty of Versailles concluded the Spanish-American War, reshaping international relations leading up to World War I."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes - Known for his work on political philosophy, he introduced a foundational idea of the social contract in a pessimistic view of human nature, but did not emphasize the concept as Rousseau did regarding freedom and equality.",
+            "2": "John Locke - Although he contributed significantly to social contract theory by emphasizing natural rights and government by consent, his focus was more on property rights rather than the collective will and direct democracy highlighted by Rousseau.",
+            "3": "Immanuel Kant - Kant discussed ideas of autonomy and moral law that align with some aspects of social contract theory, but his philosophical contributions were centered on metaphysics and ethics rather than developing a comprehensive social contract model like Rousseau."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage of adulthood",
+            "2": "Oral stage of pre-adolescence",
+            "3": "Anal stage of adolescence"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma tuberculosis",
+            "2": "Haemophilus streptococcus",
+            "3": "Legionella influenzae"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Complete blood count to assess for anemia as a cause of elevated blood pressure and dizziness.",
+            "2": "Electrocardiogram to evaluate for cardiac arrhythmias that may present with headache and elevated blood pressure.",
+            "3": "Serum electrolyte panel to check for electrolyte imbalances causing secondary hypertension symptoms."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person believes they are in danger but does not require the use of deadly force, as long as they feel threatened by someone's presence.",
+            "2": "When the person suspects someone might commit a crime in the future, allowing preemptive action to prevent potential harm.",
+            "3": "When the person is defending their property, even if there is no immediate threat to their own life or physical safety."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Supplying essential vitamins and minerals for bone health",
+            "2": "Providing a primary energy source for muscle function",
+            "3": "Enhancing absorption of fats and proteins in the intestines"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Electrocardiogram (ECG) to assess for any heart-related causes of elevated blood pressure, headache, and dizziness.",
+            "2": "Blood glucose test to evaluate if diabetes is contributing to the patient's elevated blood pressure and symptoms.",
+            "3": "Complete blood count (CBC) to rule out any blood disorders causing the elevated blood pressure and associated symptoms."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12: While Vitamin B12 is essential for nerve function and the production of DNA, it is primarily stored in the liver and does not dissolve in water.",
+            "2": "Vitamin C: Known for its role in immune function, Vitamin C is predominantly stored in fatty tissues rather than being readily dissolved in body fluids.",
+            "3": "Vitamin B6: Although Vitamin B6 is involved in protein metabolism, it is mainly stored in muscle tissues, indicating it is not truly water-soluble."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "nutrition"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x + 5",
+            "2": "3x\u00b2 - 2",
+            "3": "3x - 2"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae - while it can cause community-acquired pneumonia, it is less common than Streptococcus pneumoniae.",
+            "2": "Mycoplasma pneumoniae - known for causing atypical pneumonia, but not the most common cause overall.",
+            "3": "Staphylococcus aureus - typically associated with hospital-acquired pneumonia rather than community-acquired cases."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis through ribosomal activity",
+            "2": "Regulating cell division and DNA replication",
+            "3": "Detoxifying harmful substances and producing enzymes for digestion"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2 log n) - This suggests a combination of the average and worst-case complexities, misleading by exaggerating the time complexity.",
+            "2": "O(n log n^2) - This implies a correct logarithmic factor but misrepresents it by suggesting the exponentiation of the logarithm.",
+            "3": "O(n log n + n^2) - This mixes the average case with an additional quadratic term, suggesting an incorrect complexity by combining characteristics of different cases."
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll B, a pigment that absorbs green light for photosynthesis",
+            "2": "Stomata, structures that release oxygen exclusively during photosynthesis",
+            "3": "Thylakoid space, the site where carbon dioxide is stored during photosynthesis"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Inheritance abstraction",
+            "2": "Encapsulation iteration",
+            "3": "Polymorphic hierarchy"
+        },
+        "distractor_type": "partial_truths",
+        "subject": "college_computer_science"
+    }
+]

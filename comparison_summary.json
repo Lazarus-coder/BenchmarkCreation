@@ -1,0 +1,21 @@
+{
+    "average_accuracy": 37.450980392156865,
+    "average_response_time": 0.6451372549019606,
+    "top_correlation_with_accuracy": {
+        "metric": "accuracy",
+        "value": 1.0
+    },
+    "lowest_correlation_with_accuracy": {
+        "metric": "grammar_scores",
+        "value": -0.03818017741606037
+    },
+    "full_correlation_matrix": {
+        "accuracy": 1.0,
+        "response_time": -0.20197678326288945,
+        "meteor_scores": 0.12611215368164155,
+        "semantic_similarities": 0.047464297409776195,
+        "legal_relevance_scores": 0.09563442049724385,
+        "grammar_scores": -0.03818017741606037,
+        "distractor_diversity_score": -0.051766568398319265
+    }
+}

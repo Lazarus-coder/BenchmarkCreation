@@ -1,0 +1,1652 @@
+[
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Phallic stage",
+            "3": "Genital stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Polymorphism",
+            "3": "Abstraction"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels threatened by the presence of an unknown individual on their property, regardless of the individual's actions",
+            "2": "When the person wants to prevent a non-violent crime, such as theft, from occurring",
+            "3": "When the person believes that the other individual has previously committed a serious crime and poses a potential future threat"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel",
+            "2": "Electrocardiogram (ECG)",
+            "3": "Echocardiogram"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae",
+            "2": "Mycoplasma pneumoniae",
+            "3": "Legionella pneumophila"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Enhancing bone density and strength",
+            "2": "Increasing muscle mass and tone",
+            "3": "Boosting cognitive function and memory"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because the existence of a safer alternative design automatically proves the product was defective.",
+            "2": "The defendant, because compliance with government safety regulations shields the manufacturer from liability.",
+            "3": "The plaintiff, because any injury sustained while using the product indicates a defect in the product's design."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Synthesizing proteins for cellular repair",
+            "2": "Storing genetic information for cell replication",
+            "3": "Regulating water balance and waste removal in the cell"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant",
+            "2": "Friedrich Nietzsche",
+            "3": "John Stuart Mill"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C",
+            "2": "Vitamin B6",
+            "3": "Vitamin B12"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x - 2",
+            "2": "6x + 5",
+            "3": "3x\u00b2 - 2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 1, y = 3",
+            "2": "x = 3, y = 2",
+            "3": "x = 0, y = 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "An object in motion stays in motion unless acted upon by an external force.",
+            "2": "For every action, there is an equal and opposite reaction.",
+            "3": "The total energy of an isolated system remains constant."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Sun Tzu",
+            "3": "Confucius"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Napoleonic Wars"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The tendency to forget items that were presented in the middle of a sequence",
+            "3": "The tendency to remember items that are repeated more frequently within a sequence"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in accordance with the greatest happiness for the greatest number",
+            "2": "Follow the principle of doing what feels right in the moment",
+            "3": "Pursue actions that maximize personal benefit while minimizing harm to others"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Wu Zetian",
+            "3": "Kublai Khan"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "m\u00b2v",
+            "3": "\u00bdm\u00b2v\u00b2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Supporting muscle growth and repair",
+            "2": "Regulating blood sugar levels by producing insulin",
+            "3": "Enhancing the absorption of essential vitamins and minerals"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The defendant, because compliance with government regulations automatically establishes the product as safe and non-defective.",
+            "2": "The plaintiff, because expert testimony alone is sufficient to prove that a product is defective.",
+            "3": "The defendant, because the plaintiff assumed the risk by using the lawnmower and is therefore responsible for his own injuries."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to forget items that were presented in the middle of a sequence",
+            "2": "The tendency to better recall items that were presented first in a sequence",
+            "3": "The phenomenon where all items in a sequence are equally likely to be recalled"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = 1",
+            "2": "x = 1, y = 3",
+            "3": "x = 2, y = 0"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Anal stage",
+            "3": "Genital stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Complete blood count (CBC)",
+            "2": "Electrocardiogram (ECG)",
+            "3": "Chest X-ray"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes overall happiness and minimizes suffering for the greatest number of people.",
+            "2": "Follow rules that are dictated by social norms and cultural traditions to maintain societal harmony.",
+            "3": "Make decisions based on outcomes that align with personal goals and desires, ensuring personal fulfillment."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae",
+            "2": "Mycoplasma pneumoniae",
+            "3": "Legionella pneumophila"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and folding",
+            "2": "Lipid storage and metabolism",
+            "3": "DNA replication and repair"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "An object at rest stays at rest unless acted upon by an external force.",
+            "2": "For every action, there is an equal and opposite reaction.",
+            "3": "The total energy of an isolated system remains constant."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "John Stuart Mill",
+            "2": "Friedrich Nietzsche",
+            "3": "Karl Marx"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Napoleonic Wars",
+            "3": "The Crimean War"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Stroma",
+            "3": "Thylakoids"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x + 5",
+            "2": "3x\u00b2 - 2",
+            "3": "3x - 2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Inheritance",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12",
+            "2": "Vitamin C",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When they believe the person has committed a crime and poses a future threat to society",
+            "2": "When they suspect the person is carrying an illegal weapon, regardless of the level of threat",
+            "3": "When they are protecting their property from being damaged or stolen, even if no physical harm is threatened"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes happiness for the greatest number of people",
+            "2": "Follow the principle that actions are right if they benefit oneself without harming others",
+            "3": "Make decisions based on the consequences and outcomes they produce"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12",
+            "2": "Vitamin C",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes",
+            "2": "John Locke",
+            "3": "Immanuel Kant"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x\u00b2 - 2",
+            "2": "6x + 5",
+            "3": "3x - 2x + 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Genital stage",
+            "3": "Anal stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The defendant, because government regulations set the standard for product safety.",
+            "2": "The plaintiff, because any injury automatically indicates a defect in the product.",
+            "3": "The defendant, because the product's compliance with regulations guarantees it is not defective."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "m\u00b2v",
+            "3": "\u00bdmv\u00b3"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel",
+            "2": "Electrocardiogram (ECG)",
+            "3": "Complete blood count (CBC)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv",
+            "2": "F = ma\u00b2",
+            "3": "F = m/a"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The tendency to better recall items that were repeated multiple times within a sequence",
+            "3": "The tendency to better recall items that have a strong emotional association"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person wants to prevent the theft of personal property, regardless of the threat level.",
+            "2": "When the person believes that using deadly force will prevent someone from committing any minor criminal offense.",
+            "3": "When the person feels threatened by verbal insults or offensive gestures alone, without any physical confrontation."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = -1",
+            "2": "x = 1, y = 3",
+            "3": "x = 0, y = 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma pneumoniae",
+            "2": "Haemophilus influenzae",
+            "3": "Staphylococcus aureus"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Polymorphism",
+            "3": "Abstraction"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Providing a direct source of energy for the body",
+            "2": "Enhancing the absorption of vitamins and minerals",
+            "3": "Increasing the body's production of essential fatty acids"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Korean War"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Sun Tzu",
+            "3": "Zhang Qian"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and folding",
+            "2": "Storage of genetic information",
+            "3": "Detoxification of harmful substances"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The defendant, because compliance with government safety regulations fully shields the manufacturer from liability.",
+            "2": "The plaintiff, because any injury occurring during normal use automatically indicates a defect.",
+            "3": "The defendant, because the plaintiff assumed the risk by using the lawnmower in a potentially dangerous manner."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma pneumoniae",
+            "2": "Haemophilus influenzae",
+            "3": "Legionella pneumophila"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = 1",
+            "2": "x = 1, y = 3",
+            "3": "x = 2, y = -1"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Spanish-American War"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "m\u00b2v",
+            "3": "\u00bdmv"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and assembly",
+            "2": "DNA replication and repair",
+            "3": "Lipid storage and metabolism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin C",
+            "2": "Vitamin B12",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person believes they need to protect their property from being damaged or stolen",
+            "2": "When the person is retaliating against someone who has previously harmed them",
+            "3": "When the person is enforcing a citizen's arrest for a non-violent crime"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Sun Tzu",
+            "3": "Kublai Khan"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in such a way that your actions achieve the greatest happiness for the greatest number of people",
+            "2": "Follow only those maxims that align with the cultural norms and values of your society",
+            "3": "Make decisions based on the potential outcomes and consequences of your actions"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv",
+            "2": "a = F/m",
+            "3": "F = ma\u00b2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x\u00b2 - 2",
+            "2": "6x + 5",
+            "3": "6x\u00b2 - 2x"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Inheritance",
+            "2": "Encapsulation",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Serum electrolyte panel",
+            "2": "Echocardiogram",
+            "3": "Chest X-ray"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The improved recall of items that are frequently repeated within a sequence",
+            "3": "The enhanced memory of items that are associated with strong emotional responses"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Increasing the absorption of vitamins and minerals",
+            "2": "Providing a significant source of energy",
+            "3": "Acting as a primary building block for muscle growth"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Genital stage",
+            "3": "Oral stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant",
+            "2": "Friedrich Nietzsche",
+            "3": "S\u00f8ren Kierkegaard"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The ability to remember information that is perceived as novel or unique",
+            "3": "The improved recall of information that is repeated multiple times during presentation"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Napoleonic Wars"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes happiness for the greatest number of people.",
+            "2": "Follow rules that align with your personal desires and interests.",
+            "3": "Make decisions based on the potential outcomes and consequences."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "6x\u00b2 - 2x",
+            "2": "3x - 2",
+            "3": "6x + 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdmv",
+            "3": "m\u00b2v"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Inheritance",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid membrane",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Phallic stage",
+            "3": "Anal stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person wants to protect their property from being vandalized",
+            "2": "When the person believes the other individual is committing a non-violent crime",
+            "3": "When the person feels the need to retaliate for a previous wrong done to them"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and folding",
+            "2": "Storage of genetic information",
+            "3": "Regulation of cell division"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Sun Tzu",
+            "3": "Kublai Khan"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B6",
+            "2": "Vitamin C",
+            "3": "Vitamin B12"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because any injury caused by the product automatically indicates a defect.",
+            "2": "The defendant, because compliance with government regulations means the product is not defective.",
+            "3": "The defendant, because the plaintiff assumed the risk by choosing to use the lawnmower."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = -1",
+            "2": "x = 1, y = 3",
+            "3": "x = 4, y = 3"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant",
+            "2": "Thomas Hobbes",
+            "3": "John Locke"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Providing essential vitamins and minerals for overall health",
+            "2": "Serving as the main source of energy for the body's functions",
+            "3": "Enhancing the absorption of proteins and fats in the digestive system"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv",
+            "2": "F = ma^2",
+            "3": "F = m/a"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Haemophilus influenzae",
+            "2": "Mycoplasma pneumoniae",
+            "3": "Staphylococcus aureus"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Complete blood count (CBC)",
+            "2": "Electrocardiogram (ECG)",
+            "3": "Renal ultrasound"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Immanuel Kant",
+            "2": "Friedrich Nietzsche",
+            "3": "John Stuart Mill"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act in a way that maximizes overall happiness for the greatest number of people",
+            "2": "Make decisions based on the consequences that will bring the best outcomes",
+            "3": "Follow rules and duties only when they align with your personal interests"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12",
+            "2": "Vitamin C",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The preference for recalling items that are repeated multiple times in a sequence",
+            "3": "The tendency to recall items that are conceptually similar to each other within a sequence"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Napoleonic Wars"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Inheritance",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Providing essential amino acids for muscle building",
+            "2": "Serving as a primary source of quick energy",
+            "3": "Enhancing calcium absorption in the bones"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Phallic stage",
+            "3": "Genital stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Klebsiella pneumoniae",
+            "2": "Mycoplasma pneumoniae",
+            "3": "Legionella pneumophila"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "m\u00b2v",
+            "3": "mv/2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 3, y = -1",
+            "2": "x = 1, y = 3",
+            "3": "x = 0, y = 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv",
+            "2": "F = ma^2",
+            "3": "F = m/a"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Electrocardiogram (ECG)",
+            "2": "Complete blood count (CBC)",
+            "3": "Chest X-ray"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The plaintiff, because the testimony from their expert witness proves the product was defective.",
+            "2": "The defendant, because compliance with government safety regulations automatically ensures the product is safe.",
+            "3": "The defendant, because the plaintiff assumed the risk by using the lawnmower in a foreseeable manner."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and folding",
+            "2": "Detoxification of harmful substances",
+            "3": "Storage of genetic information"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person feels offended by verbal insults or threats that do not pose an immediate physical danger",
+            "2": "When protecting personal property from theft or damage, regardless of the threat level presented by the offender",
+            "3": "When witnessing a crime being committed, even if the crime does not involve any threat of physical harm to others"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x\u00b2 - 2",
+            "2": "6x + 2",
+            "3": "9x - 2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Han Gaozu",
+            "2": "Liu Bang",
+            "3": "Wu Zetian"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Stroma",
+            "3": "Thylakoid"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "distractors": {
+            "1": "Liu Bang",
+            "2": "Han Wudi",
+            "3": "Cao Cao"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and folding",
+            "2": "Photosynthesis and oxygen release",
+            "3": "Storage of genetic information"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Inheritance",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "According to Kant's categorical imperative, one should:",
+        "correct_answer": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+        "distractors": {
+            "1": "Act according to the principle that brings the greatest happiness to the greatest number.",
+            "2": "Act in a way that aligns with the predetermined destiny of the universe.",
+            "3": "Act only according to the rules that align with societal norms and expectations."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x\u00b2 - 2",
+            "2": "6x\u00b2 - 2x",
+            "3": "3x - 2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "What is the recency effect in memory?",
+        "correct_answer": "The tendency to better recall items that were presented last in a sequence",
+        "distractors": {
+            "1": "The tendency to better recall items that were presented first in a sequence",
+            "2": "The improved recall of items that are repeated frequently throughout a sequence",
+            "3": "The enhanced memory for items that are associated with strong emotional responses"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?",
+        "correct_answer": "Either party, because compliance with government regulations does not preclude a finding that the product was defective.",
+        "distractors": {
+            "1": "The defendant, because compliance with government safety regulations automatically immunizes the manufacturer from liability.",
+            "2": "The plaintiff, because any injury caused by a product automatically indicates a defect in its design.",
+            "3": "The defendant, because the expert testimony from the plaintiff is irrelevant if the product meets government standards."
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12",
+            "2": "Vitamin C",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Aiding in rapid weight loss by burning fat",
+            "2": "Providing essential vitamins and minerals for the body",
+            "3": "Increasing protein synthesis for muscle growth"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person wants to protect their property from being stolen",
+            "2": "When the person feels intimidated by another person's behavior",
+            "3": "When the person is defending themselves against verbal threats"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the solution to the system of equations: 2x + y = 5 and x - y = 1?",
+        "correct_answer": "x = 2, y = 1",
+        "distractors": {
+            "1": "x = 1, y = 3",
+            "2": "x = 3, y = 0",
+            "3": "x = 0, y = 5"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "An object with mass m is moving with velocity v. What is its kinetic energy?",
+        "correct_answer": "\u00bdmv\u00b2",
+        "distractors": {
+            "1": "mv\u00b2",
+            "2": "\u00bdm\u00b2v",
+            "3": "mv"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "Which of the following is Newton's Second Law of Motion?",
+        "correct_answer": "F = ma",
+        "distractors": {
+            "1": "F = mv",
+            "2": "F = ma^2",
+            "3": "F = m/a"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_physics"
+    },
+    {
+        "question": "The Treaty of Versailles was signed at the end of which war?",
+        "correct_answer": "World War I",
+        "distractors": {
+            "1": "World War II",
+            "2": "The Franco-Prussian War",
+            "3": "The Napoleonic Wars"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_world_history"
+    },
+    {
+        "question": "Which philosopher is associated with the concept of the 'social contract'?",
+        "correct_answer": "Jean-Jacques Rousseau",
+        "distractors": {
+            "1": "Thomas Hobbes",
+            "2": "Immanuel Kant",
+            "3": "John Stuart Mill"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "philosophy"
+    },
+    {
+        "question": "Which of the following is NOT one of Freud's psychosexual stages of development?",
+        "correct_answer": "Cognitive stage",
+        "distractors": {
+            "1": "Latency stage",
+            "2": "Genital stage",
+            "3": "Anal stage"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_psychology"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma pneumoniae",
+            "2": "Haemophilus influenzae",
+            "3": "Klebsiella pneumoniae"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Electrocardiogram (ECG)",
+            "2": "Complete blood count (CBC)",
+            "3": "Chest X-ray"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Under what circumstances can a private citizen legally use deadly force against another person?",
+        "correct_answer": "When the person reasonably believes deadly force is necessary for self-defense against an imminent threat of death or serious bodily harm",
+        "distractors": {
+            "1": "When the person believes they need to protect their property from theft or vandalism",
+            "2": "When the person sees someone committing a non-violent crime and wants to stop them",
+            "3": "When the person is defending someone else\u2019s reputation from slander or libel"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_law"
+    },
+    {
+        "question": "What is the primary role of fiber in the diet?",
+        "correct_answer": "Promoting digestive health and regular bowel movements",
+        "distractors": {
+            "1": "Providing a direct source of energy like carbohydrates",
+            "2": "Building and repairing muscle tissue",
+            "3": "Strengthening bones and teeth through mineral absorption"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",
+        "correct_answer": "24-hour ambulatory blood pressure monitoring",
+        "distractors": {
+            "1": "Complete blood count (CBC)",
+            "2": "Electrocardiogram (ECG)",
+            "3": "Serum electrolyte panel"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "Which of the following is NOT a water-soluble vitamin?",
+        "correct_answer": "Vitamin E",
+        "distractors": {
+            "1": "Vitamin B12",
+            "2": "Vitamin C",
+            "3": "Vitamin B6"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "nutrition"
+    },
+    {
+        "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f'(x)?",
+        "correct_answer": "6x - 2",
+        "distractors": {
+            "1": "3x - 2",
+            "2": "6x + 5",
+            "3": "9x - 2"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_mathematics"
+    },
+    {
+        "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+        "correct_answer": "Streptococcus pneumoniae",
+        "distractors": {
+            "1": "Mycoplasma pneumoniae",
+            "2": "Haemophilus influenzae",
+            "3": "Legionella pneumophila"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "professional_medicine"
+    },
+    {
+        "question": "What is the primary function of mitochondria in a cell?",
+        "correct_answer": "Energy production through cellular respiration",
+        "distractors": {
+            "1": "Protein synthesis and assembly",
+            "2": "Storage of genetic information",
+            "3": "Detoxification of harmful substances"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the average case?",
+        "correct_answer": "O(n log n)",
+        "distractors": {
+            "1": "O(n^2)",
+            "2": "O(n)",
+            "3": "O(log n)"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    },
+    {
+        "question": "Which of the following is NOT involved in photosynthesis?",
+        "correct_answer": "Mitochondria",
+        "distractors": {
+            "1": "Chlorophyll",
+            "2": "Thylakoid membranes",
+            "3": "Stroma"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "high_school_biology"
+    },
+    {
+        "question": "Which of the following is NOT a principle of object-oriented programming?",
+        "correct_answer": "Procedural decomposition",
+        "distractors": {
+            "1": "Encapsulation",
+            "2": "Inheritance",
+            "3": "Polymorphism"
+        },
+        "distractor_type": "plausible_alternatives",
+        "subject": "college_computer_science"
+    }
+]

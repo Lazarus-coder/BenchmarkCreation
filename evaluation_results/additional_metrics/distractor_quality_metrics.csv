@@ -1,0 +1,751 @@
+question,distractor_type,meteor_score,semantic_similarity,grammar_score,diversity_score,subject
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.4791666666666667,0.5901245,1.0,0.6405051125423503,high_school_psychology
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.0,0.29336226,1.0,0.6489843023305742,college_computer_science
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.04416754416754417,0.40981427,1.0,0.40088317401122503,professional_law
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.28724635,1.0,0.6925877658746015,professional_medicine
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.3958333333333333,0.6186597,1.0,0.588987561441133,professional_medicine
+What is the primary role of fiber in the diet?,plausible_alternatives,0.052083333333333336,0.23411988,1.0,0.7171697402232108,nutrition
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.24750921809904955,0.6462405,1.0,0.28193210613155845,professional_law
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.14918334483551873,0.5329793,1.0,0.7293133552713552,high_school_biology
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.39800918,0.8333333333333334,0.6908314635002948,high_school_biology
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.33690986,1.0,0.6743839973222009,philosophy
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.8134386,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.2638888888888889,0.71894526,1.0,0.38417155705599465,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.8175617283950617,0.82267326,0.5,0.2653453080167587,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.05142869113457349,0.37071204,1.0,0.7176021420064238,high_school_physics
+Who was the first Emperor of China?,plausible_alternatives,0.0,0.3551289,0.8333333333333334,0.6737088369993046,high_school_world_history
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+What is the recency effect in memory?,plausible_alternatives,0.5094146484679029,0.69740766,1.0,0.1803803071780449,high_school_psychology
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.0651253663301856,0.43377364,1.0,0.608154475702864,philosophy
+Who was the first Emperor of China?,plausible_alternatives,0.3125,0.5518307,0.8333333333333334,0.6498298598616369,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.0,0.52620906,0.5,0.5300546670681862,high_school_physics
+What is the primary role of fiber in the diet?,plausible_alternatives,0.031446540880503145,0.22522283,1.0,0.8390206203718096,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.2897569444444445,0.7270315,1.0,0.3789791148462074,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+What is the recency effect in memory?,plausible_alternatives,0.49513860988348735,0.6645679,1.0,0.20367578951964393,high_school_psychology
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.625,0.84142095,0.5,0.18336336770309378,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.25,0.42190424,1.0,0.5796752665909558,high_school_psychology
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.29536045,1.0,0.7636106819726306,professional_medicine
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.13957913185441276,0.413473,1.0,0.5660231101021416,philosophy
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.3958333333333333,0.6186597,1.0,0.588987561441133,professional_medicine
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.32575757575757575,0.38149467,1.0,0.7976976329176267,high_school_biology
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.05142869113457349,0.36409676,1.0,0.7106480058608292,high_school_physics
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.35500482,1.0,0.5839289812519356,philosophy
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.523741690408357,0.7047267,1.0,0.454738366211141,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.3782979,0.8333333333333334,0.7123815127440865,high_school_biology
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.2638888888888889,0.6941549,1.0,0.38417155705599465,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.16666666666666666,0.5429397,1.0,0.6709964969575459,college_computer_science
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.035342060658516354,0.45540127,1.0,0.4379869832457572,professional_law
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.0392156862745098,0.4096595,1.0,0.6608719222762657,philosophy
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.33634916,1.0,0.5962221084941101,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.5224729938271605,0.76662177,1.0,0.3945818780945021,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.25,0.43008056,1.0,0.5796752665909558,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.17038240379550215,0.7079,0.8333333333333334,0.22870851201432452,professional_law
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.0,0.54003984,0.5,0.5577008125556393,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.22631942,1.0,0.7284432784893397,professional_medicine
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.0,0.19872369,0.8333333333333334,0.31350975764125094,high_school_physics
+What is the recency effect in memory?,plausible_alternatives,0.6640873659313181,0.7641595,1.0,0.24362116616262472,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.020833333333333332,0.44111297,1.0,0.4662352494976951,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.625,0.8138254,0.5,0.2779432978643576,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.3125,0.5897706,1.0,0.6495817260026723,professional_medicine
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.39800918,0.8333333333333334,0.6908314635002948,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.0,0.29336226,1.0,0.6489843023305742,college_computer_science
+What is the primary role of fiber in the diet?,plausible_alternatives,0.15490333100395995,0.3896797,1.0,0.6153384525898495,nutrition
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8363872,1.0,0.48190364346415304,high_school_world_history
+Who was the first Emperor of China?,plausible_alternatives,0.0,0.38423118,0.6666666666666666,0.6563926071993809,high_school_world_history
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.5711279461279462,0.6575536,1.0,0.8581553660723403,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.2078274489527173,0.6863987,1.0,0.4570127350756401,professional_law
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.0,0.3741407,1.0,0.588987561441133,professional_medicine
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.625,0.8996281,0.5,0.14359537472647063,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8512214,1.0,0.4855075635654644,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.0,0.5501192,0.5,0.5644182583844645,high_school_physics
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.2840909090909091,0.46267048,1.0,0.7864330595439687,high_school_biology
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.9375,1.0,1.0,0.3808274505976672,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.061391826609217916,0.44824162,1.0,0.5142416846252832,professional_law
+Who was the first Emperor of China?,plausible_alternatives,0.3125,0.5754394,0.8333333333333334,0.6749554289518928,high_school_world_history
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.06125356125356126,0.3635858,1.0,0.6213937192366463,philosophy
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.39800918,0.8333333333333334,0.6908314635002948,high_school_biology
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.0,0.23046951,0.6666666666666666,0.35303742246907815,high_school_physics
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.5354938271604938,0.82664806,1.0,0.37667426679572724,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.5,1.0,1.0,0.6709964969575459,college_computer_science
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.16666666666666666,0.43652734,1.0,0.8757465253479412,professional_medicine
+What is the recency effect in memory?,plausible_alternatives,0.39062181339599805,0.6611211,1.0,0.3868152726070538,high_school_psychology
+What is the primary role of fiber in the diet?,plausible_alternatives,0.0,0.1631906,1.0,0.7796438038172715,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.25,0.4415103,1.0,0.5832986200148137,high_school_psychology
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.3125,0.5631995,1.0,0.6445807584532054,philosophy
+What is the recency effect in memory?,plausible_alternatives,0.4035417100368249,0.71893996,1.0,0.38470845141854665,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.08487778673113082,0.32117882,1.0,0.6305452338742421,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.3194444444444444,0.7611997,1.0,0.37989951313814957,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.16666666666666666,0.5429397,1.0,0.6709964969575459,college_computer_science
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.38689026,0.8333333333333334,0.7154746947496715,high_school_biology
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.4791666666666667,0.5783383,1.0,0.6799959515851178,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.04786324786324786,0.36706078,1.0,0.5844988314805343,professional_law
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.5711279461279462,0.5052739,1.0,0.7903682561292222,high_school_biology
+Who was the first Emperor of China?,plausible_alternatives,0.3125,0.5754394,0.8333333333333334,0.6749554289518928,high_school_world_history
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.25,0.6191726,1.0,0.3808274505976672,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.29892379492894955,0.7031594,1.0,0.4140107662777421,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.625,0.8054721,0.5,0.16122054772948657,high_school_mathematics
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.31733906,1.0,0.5962221084941101,philosophy
+What is the primary role of fiber in the diet?,plausible_alternatives,0.17570970695970697,0.25429156,1.0,0.6594205504168532,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.7083333333333334,0.83428955,1.0,0.6495817260026723,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.11494252873563217,0.5074703,1.0,0.8040922046987128,professional_medicine
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.33690986,1.0,0.6743839973222009,philosophy
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.03875968992248063,0.3396224,1.0,0.680511969593702,philosophy
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+What is the recency effect in memory?,plausible_alternatives,0.4897433840597964,0.6911345,1.0,0.24407441710322586,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.16666666666666666,0.5429397,1.0,0.6709964969575459,college_computer_science
+What is the primary role of fiber in the diet?,plausible_alternatives,0.1892156862745098,0.16983871,1.0,0.8161878597322726,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.4791666666666667,0.5901245,1.0,0.6405051125423503,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.08333333333333333,0.41954935,1.0,0.549644140032737,professional_medicine
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.0,0.43988994,0.5,0.5358337272545823,high_school_physics
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.625,0.8138254,0.5,0.2779432978643576,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.22837918,1.0,0.7636106819726306,professional_medicine
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.2391403289503721,0.683258,1.0,0.3690927355773961,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.36742424242424243,0.3242175,1.0,0.8581553660723403,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.041666666666666664,0.3645083,1.0,0.4789216549957908,professional_law
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.4382716049382716,0.84352523,1.0,0.3560909838182324,high_school_mathematics
+Who was the first Emperor of China?,plausible_alternatives,0.043859649122807015,0.4421331,0.6666666666666666,0.6008849943758928,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.38096166,0.8333333333333334,0.6908314635002948,high_school_biology
+Who was the first Emperor of China?,plausible_alternatives,0.0,0.3123748,0.8333333333333334,0.594343258571065,high_school_world_history
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.32575757575757575,0.29547873,1.0,0.8351038820283284,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.16666666666666666,0.5429397,1.0,0.6709964969575459,college_computer_science
+"According to Kant's categorical imperative, one should:",plausible_alternatives,0.15084545990298745,0.38717172,1.0,0.5621139561789433,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.5910493827160493,0.9199295,1.0,0.19926631100665645,high_school_mathematics
+What is the recency effect in memory?,plausible_alternatives,0.39062181339599805,0.6597343,1.0,0.3775096408857583,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,plausible_alternatives,0.2435744862041079,0.7550545,1.0,0.36507992349419904,professional_law
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+What is the primary role of fiber in the diet?,plausible_alternatives,0.0,0.18836941,1.0,0.7647269029929301,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.39800918,0.8333333333333334,0.6908314635002948,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.07193732193732194,0.36914065,1.0,0.5852513348327116,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,plausible_alternatives,0.8175617283950617,0.82686347,0.5,0.2536310796804689,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,plausible_alternatives,0.0,0.52114,0.5,0.4856750405585882,high_school_physics
+Which of the following is Newton's Second Law of Motion?,plausible_alternatives,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+The Treaty of Versailles was signed at the end of which war?,plausible_alternatives,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+Which philosopher is associated with the concept of the 'social contract'?,plausible_alternatives,0.0,0.3216238,1.0,0.6736664749658773,philosophy
+Which of the following is NOT one of Freud's psychosexual stages of development?,plausible_alternatives,0.25,0.43008056,1.0,0.5796752665909558,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.0,0.37210956,1.0,0.5759398902071254,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.22837918,1.0,0.7636106819726306,professional_medicine
+Under what circumstances can a private citizen legally use deadly force against another person?,plausible_alternatives,0.04615482556659028,0.3543134,1.0,0.5549148423422876,professional_law
+What is the primary role of fiber in the diet?,plausible_alternatives,0.3944088319088319,0.5880434,1.0,0.7326293590506295,nutrition
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",plausible_alternatives,0.0,0.27619383,1.0,0.7284432784893397,professional_medicine
+Which of the following is NOT a water-soluble vitamin?,plausible_alternatives,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",plausible_alternatives,0.2638888888888889,0.75126404,1.0,0.3568946824153525,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,plausible_alternatives,0.0,0.3741407,1.0,0.588987561441133,professional_medicine
+What is the primary function of mitochondria in a cell?,plausible_alternatives,0.5711279461279462,0.69906205,1.0,0.8823321124689157,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,plausible_alternatives,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is NOT involved in photosynthesis?,plausible_alternatives,0.0,0.37819448,0.8333333333333334,0.7310328992957756,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,plausible_alternatives,0.16666666666666666,0.5429397,1.0,0.6709964969575459,college_computer_science
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.47880566,1.0,0.34516457624195246,high_school_psychology
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.0,0.18286796,1.0,0.6697693637053538,college_computer_science
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.021645021645021648,0.37401608,1.0,0.45943092584238254,professional_law
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.19972217,1.0,0.6589154662801674,professional_medicine
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.3125,0.57805437,1.0,0.6277442230524387,professional_medicine
+What is the primary role of fiber in the diet?,semantic_confounders,0.032051282051282055,0.24834742,1.0,0.6142937729930784,nutrition
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.16666666666666666,0.63787,0.5,0.5644182583844644,high_school_physics
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.45162277713940613,0.7612435,1.0,0.23319619116215048,professional_law
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.0,0.13900152,1.0,0.41331394026331064,high_school_biology
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.456915,0.8333333333333334,0.6380792564967644,high_school_biology
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.35031363,1.0,0.5592442893135013,philosophy
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.9375,1.0,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.3194444444444444,0.77623135,1.0,0.2845136848265635,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.3125,0.839089,0.8333333333333334,0.19249524059918424,college_computer_science
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.8175617283950617,0.81867176,0.5,0.06495078199128516,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+Who was the first Emperor of China?,semantic_confounders,0.0,0.43298578,1.0,0.4991413866022227,high_school_world_history
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8392296,1.0,0.4795518130879339,high_school_world_history
+What is the recency effect in memory?,semantic_confounders,0.6535810842373921,0.76992863,1.0,0.059297677718199125,high_school_psychology
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.09344598054275473,0.44968382,1.0,0.19613394852358423,philosophy
+Who was the first Emperor of China?,semantic_confounders,0.043859649122807015,0.5038328,0.8333333333333334,0.5547420448790797,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.0,0.35945868,0.5,0.5577008125556392,high_school_physics
+What is the primary role of fiber in the diet?,semantic_confounders,0.050505050505050504,0.37943038,1.0,0.6577257316320079,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.34938114871508547,0.6819229,1.0,0.27879020689664047,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.3125,0.75917035,0.8333333333333334,0.28629702285025627,college_computer_science
+What is the recency effect in memory?,semantic_confounders,0.586431930642457,0.72778195,1.0,0.1089798024791292,high_school_psychology
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.625,0.8403175,0.5,0.12064352716677218,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.4503561,1.0,0.4404086799319975,high_school_psychology
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.22075552,1.0,0.6025346026649707,professional_medicine
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.10020630710285883,0.4056653,1.0,0.33468946491896073,philosophy
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.3579186,1.0,0.5822863326935744,professional_medicine
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.32575757575757575,0.49366868,1.0,0.8144848331504934,high_school_biology
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.19872369,0.8333333333333334,0.31350975764125094,high_school_physics
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.35564038,1.0,0.6743839973222009,philosophy
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.47396252,0.8333333333333334,0.6380792564967644,high_school_biology
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.47222222222222215,0.7212872,1.0,0.30878304602881185,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.0,0.1670425,1.0,0.6943301984703516,college_computer_science
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.589596,1.0,0.38828516286351095,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.046520643535568916,0.44786027,1.0,0.4102799712054563,professional_law
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.09344598054275473,0.4423585,1.0,0.19077803613160463,philosophy
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.5788714,1.0,0.38828516286351095,nutrition
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.28373277,1.0,0.6736664749658773,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.4166666666666667,0.72906715,1.0,0.33849752195185934,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.45055047,1.0,0.4533710424227251,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.24983892595499738,0.61472327,1.0,0.41426162984881193,professional_law
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.1309432,1.0,0.44326073075602146,professional_medicine
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.25849363,0.6666666666666666,0.28358668047873,high_school_physics
+What is the recency effect in memory?,semantic_confounders,0.39003701807436064,0.677773,1.0,0.24748699178075398,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.06955484896661368,0.35273245,1.0,0.6464649265346647,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.625,0.8403175,0.5,0.12064352716677218,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.33855304,1.0,0.6083400622637095,professional_medicine
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.15151515151515152,0.43260542,1.0,0.6290747920454731,college_computer_science
+What is the primary role of fiber in the diet?,semantic_confounders,0.032679738562091505,0.2578688,1.0,0.5710189537293598,nutrition
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8363872,1.0,0.48190364346415304,high_school_world_history
+Who was the first Emperor of China?,semantic_confounders,0.043859649122807015,0.43338594,0.8333333333333334,0.5332396883794447,high_school_world_history
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.0,0.122675695,1.0,0.7119134745686261,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.3125,0.8012884,0.8333333333333334,0.09433396962660572,college_computer_science
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.31158371569913673,0.6996184,1.0,0.23249219270397595,professional_law
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.3722558,1.0,0.6277442230524387,professional_medicine
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.8175617283950617,0.82286197,0.5,0.11097478405049166,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8392296,1.0,0.4795518130879339,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.0,0.66518885,0.5,0.5143869476641956,high_school_physics
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.07246376811594203,0.2636993,1.0,0.4770671710571927,high_school_biology
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.589596,1.0,0.38828516286351095,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.05033681249537345,0.40628728,1.0,0.26272715233775334,professional_law
+Who was the first Emperor of China?,semantic_confounders,0.0,0.51859343,1.0,0.25892877345837806,high_school_world_history
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.09715380405035577,0.4342765,1.0,0.39683040648947426,philosophy
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.17538051,1.0,0.2511781693672422,high_school_physics
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.3194444444444444,0.704592,1.0,0.288386088346888,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.0,0.12035927,1.0,0.8014187583657592,college_computer_science
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.23536426,1.0,0.5010286150209602,professional_medicine
+What is the recency effect in memory?,semantic_confounders,0.6643047875685683,0.7482326,1.0,0.14886100121348475,high_school_psychology
+What is the primary role of fiber in the diet?,semantic_confounders,0.032679738562091505,0.24790795,1.0,0.6081905740241993,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.47224465,1.0,0.4603810910538897,high_school_psychology
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.30251062,1.0,0.5962221084941101,philosophy
+What is the recency effect in memory?,semantic_confounders,0.5657955610747897,0.71077174,1.0,0.18263022097638096,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8392296,1.0,0.4795518130879339,high_school_world_history
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.11904761904761905,0.38865212,1.0,0.29506652919360193,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.4166666666666667,0.7437536,1.0,0.37294311969839233,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.0,0.54626465,0.5,0.40779051657197013,high_school_physics
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.15151515151515152,0.40961447,1.0,0.6704642263385218,college_computer_science
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.47396252,0.8333333333333334,0.6380792564967644,high_school_biology
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.5010235,1.0,0.4404086799319975,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.02136752136752137,0.39955735,1.0,0.32935922108115745,professional_law
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.04065040650406504,0.20190728,1.0,0.6794870228040725,high_school_biology
+Who was the first Emperor of China?,semantic_confounders,0.04273504273504274,0.5146604,1.0,0.3608221961716563,high_school_world_history
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.5978872,1.0,0.38828516286351095,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.21996606248763487,0.6857233,1.0,0.24749985350874004,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.625,0.81315356,0.5,0.275306527623509,high_school_mathematics
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.3507087,1.0,0.6629802248819803,philosophy
+What is the primary role of fiber in the diet?,semantic_confounders,0.03333333333333334,0.3232483,1.0,0.6440947905806653,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.3125,0.839089,0.8333333333333334,0.19249524059918424,college_computer_science
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.17071538,1.0,0.2511781693672422,high_school_physics
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.3722558,1.0,0.6277442230524387,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.1697306,1.0,0.2851913561747361,professional_medicine
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.3507087,1.0,0.6629802248819803,philosophy
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.09784644194756553,0.45676813,1.0,0.39919694427269,philosophy
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.589596,1.0,0.38828516286351095,nutrition
+What is the recency effect in memory?,semantic_confounders,0.5099226102161748,0.68721485,1.0,0.1893483085577309,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8392296,1.0,0.4795518130879339,high_school_world_history
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.0,0.32507738,1.0,0.5795296630537137,college_computer_science
+What is the primary role of fiber in the diet?,semantic_confounders,0.0308641975308642,0.24669021,1.0,0.6311385972596356,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.46368888,1.0,0.4758285928887738,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.33855304,1.0,0.6083400622637095,professional_medicine
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.0,0.70027345,0.5,0.4375940607440529,high_school_physics
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.625,0.8403175,0.5,0.12064352716677218,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.19872369,0.8333333333333334,0.31350975764125094,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.18646549,1.0,0.23784269912375378,professional_medicine
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.32344644521097937,0.6660981,1.0,0.24927248335561913,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.0,0.17837769,1.0,0.6545353852971135,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.10139414844665855,0.4512262,1.0,0.45416558195694484,professional_law
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.3194444444444444,0.704592,1.0,0.288386088346888,high_school_mathematics
+Who was the first Emperor of China?,semantic_confounders,0.043859649122807015,0.4421331,0.6666666666666666,0.6008849943758928,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.15151515151515152,0.3765322,0.8333333333333334,0.7361103937965713,high_school_biology
+Who was the first Emperor of China?,semantic_confounders,0.043859649122807015,0.41805658,0.6666666666666666,0.6008849943758928,high_school_world_history
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.0,0.18999563,1.0,0.8198351236945897,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.0,0.28473815,1.0,0.6038966539822211,college_computer_science
+"According to Kant's categorical imperative, one should:",semantic_confounders,0.09392408343049619,0.44230494,1.0,0.3575415051112761,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.2638888888888889,0.6856303,1.0,0.38836925111683146,high_school_mathematics
+What is the recency effect in memory?,semantic_confounders,0.6427812818345363,0.7561329,1.0,0.059297677718199125,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,semantic_confounders,0.28979051502721204,0.7052118,1.0,0.4016167115091858,professional_law
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.5978872,1.0,0.38828516286351095,nutrition
+What is the primary role of fiber in the diet?,semantic_confounders,0.08413461538461538,0.41390514,1.0,0.673897237206624,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.022522522522522525,0.38710582,1.0,0.468682487115065,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,semantic_confounders,0.8734567901234568,0.8751306,0.5,0.11871608164137155,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,semantic_confounders,0.0,0.70027345,0.5,0.4375940607440529,high_school_physics
+Which of the following is Newton's Second Law of Motion?,semantic_confounders,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+The Treaty of Versailles was signed at the end of which war?,semantic_confounders,0.7397910731244065,0.8392296,1.0,0.4795518130879339,high_school_world_history
+Which philosopher is associated with the concept of the 'social contract'?,semantic_confounders,0.0,0.30251062,1.0,0.5962221084941101,philosophy
+Which of the following is NOT one of Freud's psychosexual stages of development?,semantic_confounders,0.25,0.4503561,1.0,0.4404086799319975,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.33855304,1.0,0.6083400622637095,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.19415183,1.0,0.39900820870245896,professional_medicine
+Under what circumstances can a private citizen legally use deadly force against another person?,semantic_confounders,0.02192982456140351,0.27265462,1.0,0.5716281607575128,professional_law
+What is the primary role of fiber in the diet?,semantic_confounders,0.032051282051282055,0.30579385,1.0,0.6995434249166097,nutrition
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",semantic_confounders,0.0,0.21895629,1.0,0.4907568081091858,professional_medicine
+Which of the following is NOT a water-soluble vitamin?,semantic_confounders,0.25,0.5978872,1.0,0.38828516286351095,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",semantic_confounders,0.3194444444444444,0.704592,1.0,0.288386088346888,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,semantic_confounders,0.0,0.42536274,1.0,0.6083400622637094,professional_medicine
+What is the primary function of mitochondria in a cell?,semantic_confounders,0.04065040650406504,0.2793936,1.0,0.5288104305296066,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,semantic_confounders,0.3125,0.8012884,0.8333333333333334,0.09433396962660572,college_computer_science
+Which of the following is NOT involved in photosynthesis?,semantic_confounders,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,semantic_confounders,0.15151515151515152,0.40623692,1.0,0.6309889679874773,college_computer_science
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.48520526,1.0,0.4152179645886828,high_school_psychology
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.0,0.38000098,1.0,0.5814224882750698,college_computer_science
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.09966626117478601,0.45616862,1.0,0.22726273309657294,professional_law
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.1479579,1.0,0.3385924046582369,professional_medicine
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.0,0.45794263,0.8333333333333334,0.3502084945493285,professional_medicine
+What is the primary role of fiber in the diet?,syntax_manipulations,0.0,0.17539217,1.0,0.8351362099429753,nutrition
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.16666666666666666,0.62973243,0.5,0.3918871062322718,high_school_physics
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.32044430522726663,0.59805566,1.0,0.3042045763437418,professional_law
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.2717391304347826,0.31670156,1.0,0.7832352772633194,high_school_biology
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49429512,1.0,0.6255254376861787,high_school_biology
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.17823018,1.0,0.672021450164563,philosophy
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.9375,1.0,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.47222222222222215,0.7653322,1.0,0.2896149594869708,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.73919654,1.0,0.013752148518036597,college_computer_science
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.8175617283950617,0.82686347,0.5,0.2536310796804689,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.19872369,0.8333333333333334,0.31350975764125094,high_school_physics
+Who was the first Emperor of China?,syntax_manipulations,0.08547008547008549,0.5378514,0.8333333333333334,0.46389784679524126,high_school_world_history
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.7397910731244065,0.8350315,1.0,0.4706746714433075,high_school_world_history
+What is the recency effect in memory?,syntax_manipulations,0.6544540535073079,0.76012015,1.0,0.05962989682911268,high_school_psychology
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.09297912713472485,0.45880994,1.0,0.13079105899186302,philosophy
+Who was the first Emperor of China?,syntax_manipulations,0.08547008547008549,0.56101745,1.0,0.5318580035699094,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.16666666666666666,0.6329373,0.5,0.37859971957370475,high_school_physics
+What is the primary role of fiber in the diet?,syntax_manipulations,0.030303030303030304,0.26704314,1.0,0.5684262752899994,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.30974793627411357,0.64612925,1.0,0.3190894428950008,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.07575757575757576,0.70787454,0.6666666666666666,0.09698824682929257,college_computer_science
+What is the recency effect in memory?,syntax_manipulations,0.6544540535073079,0.7560579,1.0,0.07701679052337151,high_school_psychology
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.625,0.80217046,0.5,0.17180860839374304,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.4562203,1.0,0.47694696492022964,high_school_psychology
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.10320782,1.0,0.3138916563240656,professional_medicine
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.09344598054275473,0.44443968,1.0,0.2922192612162652,philosophy
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.0,0.3262048,1.0,0.6249072866716358,professional_medicine
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.0,0.13967448,1.0,0.8053956925061301,high_school_biology
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.31449068,1.0,0.6814776158640147,philosophy
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.07568027210884354,0.32483196,1.0,0.29592682927252417,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.2638888888888889,0.6433256,1.0,0.3568946824153525,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.15151515151515152,0.5158648,1.0,0.6513602591063918,college_computer_science
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.4791666666666667,0.6997642,1.0,0.3808274505976672,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.11970056638347493,0.5196562,1.0,0.27957805293388344,professional_law
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.13408472600077728,0.46973348,1.0,0.18754428884504537,philosophy
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.4791666666666667,0.72943157,1.0,0.3686273183998603,nutrition
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.3160292,1.0,0.6371298118999014,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.2638888888888889,0.6799868,1.0,0.4217927710051595,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.55501354,1.0,0.4313848240948697,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.406808732204226,0.66242474,1.0,0.23770095125354682,professional_law
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.0,0.4163016,0.5,0.127938829962011,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.11886481,1.0,0.37326280255257843,professional_medicine
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+What is the recency effect in memory?,syntax_manipulations,0.6527213417745962,0.7535901,1.0,0.08613197402179203,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.09852216748768473,0.47422206,1.0,0.24130374344709402,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.8175617283950617,0.8753117,0.5,0.2247893742826532,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.3125,0.55575716,1.0,0.6543723732672669,professional_medicine
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.5053032,1.0,0.6164813903331462,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.0,0.26871702,1.0,0.7032506852681496,college_computer_science
+What is the primary role of fiber in the diet?,syntax_manipulations,0.0,0.13623829,1.0,0.8031251449919323,nutrition
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.23193027210884354,0.36418295,1.0,0.19457925562599573,high_school_world_history
+Who was the first Emperor of China?,syntax_manipulations,0.04273504273504274,0.42204782,0.611111111111111,0.44126287911158685,high_school_world_history
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.3540562036055143,0.49360833,1.0,0.5873447031001952,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.3125,0.8012884,0.8333333333333334,0.09433396962660572,college_computer_science
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.31013197829927264,0.62663656,1.0,0.28932990951169124,professional_law
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.0,0.43046394,0.611111111111111,0.34155641190040437,professional_medicine
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.625,0.80065656,0.5,0.2536310796804689,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.34651360544217685,0.46947184,1.0,0.18328827770123834,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.0,0.32369766,0.5,0.5428316567054204,high_school_physics
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.2717391304347826,0.33556798,1.0,0.7892984946059279,high_school_biology
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.4791666666666667,0.8134386,1.0,0.3808274505976672,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.10056137029875711,0.45427728,1.0,0.26630966930125133,professional_law
+Who was the first Emperor of China?,syntax_manipulations,0.08547008547008549,0.47163072,0.4444444444444444,0.37504791613260124,high_school_world_history
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.0928740290442418,0.45396733,1.0,0.22556985969650623,philosophy
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.47337878,1.0,0.7510412097265292,high_school_biology
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.21159095,0.8333333333333334,0.21054316388222014,high_school_physics
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.2638888888888889,0.718242,1.0,0.35200187051638476,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.15151515151515152,0.48541918,1.0,0.6394194370272185,college_computer_science
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.20132135,1.0,0.34586298483221195,professional_medicine
+What is the recency effect in memory?,syntax_manipulations,0.6518745277698875,0.7266669,1.0,0.08853013167924066,high_school_psychology
+What is the primary role of fiber in the diet?,syntax_manipulations,0.049019607843137254,0.3223796,1.0,0.6464064694159016,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.48392463,1.0,0.39081862683740026,high_school_psychology
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.32343653,1.0,0.650830458245647,philosophy
+What is the recency effect in memory?,syntax_manipulations,0.5580610637809849,0.7238397,1.0,0.11153986879066828,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.523741690408357,0.70188445,1.0,0.49336549620343456,high_school_world_history
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.09184726522187821,0.40000618,1.0,0.26183910711417735,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.2638888888888889,0.6799868,1.0,0.4217927710051595,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.0,0.4726058,0.6666666666666666,0.2113769816586802,high_school_physics
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.0,0.33838156,1.0,0.6462951636167115,college_computer_science
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.49965048,1.0,0.3915610984769529,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.09887334887334888,0.4887887,1.0,0.21785221383892284,professional_law
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.31238953693884763,0.4414245,1.0,0.6200164329937623,high_school_biology
+Who was the first Emperor of China?,syntax_manipulations,0.043859649122807015,0.43599823,0.6666666666666666,0.41391261327176815,high_school_world_history
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.9375,1.0,1.0,0.3808274505976672,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.40253654903226527,0.6868048,1.0,0.3170766333525797,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.625,0.79230326,0.5,0.1489002460510851,high_school_mathematics
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.3622857,1.0,0.6508304582456471,philosophy
+What is the primary role of fiber in the diet?,syntax_manipulations,0.12948575656677766,0.40484497,1.0,0.7676431035707191,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.7320226,1.0,0.25734893807017273,college_computer_science
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.26622435,0.6666666666666666,0.556425387093764,high_school_physics
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.0,0.4061674,1.0,0.3858558997805422,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.07840378,0.8333333333333334,0.7190258941143597,professional_medicine
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.3216238,1.0,0.6736664749658773,philosophy
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.09344598054275473,0.42353034,1.0,0.2705668394001863,philosophy
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.4791666666666667,0.8134386,1.0,0.3808274505976672,nutrition
+What is the recency effect in memory?,syntax_manipulations,0.6544540535073079,0.75575095,1.0,0.08205831700246746,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.23193027210884354,0.36418295,1.0,0.19457925562599573,high_school_world_history
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.0,0.29889476,1.0,0.6139782835602675,college_computer_science
+What is the primary role of fiber in the diet?,syntax_manipulations,0.0617283950617284,0.31684104,1.0,0.6661104880144584,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.49194157,1.0,0.42752083527521717,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.3125,0.57805437,1.0,0.6277442230524387,professional_medicine
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.16666666666666666,0.62067777,0.5,0.39732804036341657,high_school_physics
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.8175617283950617,0.8599274,0.5,0.2042625448145342,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.19872369,0.8333333333333334,0.31350975764125094,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.1263083,1.0,0.36628650803997553,professional_medicine
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.44025499575452637,0.68697387,1.0,0.3177077645625937,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.391754616303927,0.6208493,1.0,0.8044318848452129,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.09814720774274492,0.49416104,1.0,0.2935788847885528,professional_law
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.3194444444444444,0.704592,1.0,0.288386088346888,high_school_mathematics
+Who was the first Emperor of China?,syntax_manipulations,0.0,0.46516582,1.0,0.13250346420072132,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49429512,1.0,0.6255254376861787,high_school_biology
+Who was the first Emperor of China?,syntax_manipulations,0.08547008547008549,0.5156123,0.6666666666666666,0.5043348688665824,high_school_world_history
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.2717391304347826,0.34192094,1.0,0.5448570745913053,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.45454545454545453,0.82147413,1.0,0.6294220904478854,college_computer_science
+"According to Kant's categorical imperative, one should:",syntax_manipulations,0.0940303657694962,0.42993268,1.0,0.15465343668026532,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.2638888888888889,0.71894526,1.0,0.38417155705599465,high_school_mathematics
+What is the recency effect in memory?,syntax_manipulations,0.6544540535073079,0.7556886,1.0,0.07827629799417109,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,syntax_manipulations,0.34197437534909864,0.657489,1.0,0.3647452923510314,professional_law
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.25,0.6191726,1.0,0.3808274505976672,nutrition
+What is the primary role of fiber in the diet?,syntax_manipulations,0.0,0.19537418,1.0,0.8161434522800164,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.66181976,0.8333333333333334,0.19249524059918424,college_computer_science
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49429512,1.0,0.6255254376861787,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.10027910685805423,0.46899688,1.0,0.25110665028627277,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,syntax_manipulations,0.7616666666666667,0.84032536,0.5,0.2184645957309392,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,syntax_manipulations,0.16666666666666666,0.6318063,0.5,0.4227242452316909,high_school_physics
+Which of the following is Newton's Second Law of Motion?,syntax_manipulations,0.0,0.20531958,0.8333333333333334,0.3147331134315004,high_school_physics
+The Treaty of Versailles was signed at the end of which war?,syntax_manipulations,0.5216049382716049,0.7009334,1.0,0.5080427092816688,high_school_world_history
+Which philosopher is associated with the concept of the 'social contract'?,syntax_manipulations,0.0,0.35395953,1.0,0.3225087024694359,philosophy
+Which of the following is NOT one of Freud's psychosexual stages of development?,syntax_manipulations,0.25,0.49016652,1.0,0.4712475404615663,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.0,0.4344597,0.6666666666666666,0.3820097165497321,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.17020445,1.0,0.32496754784776716,professional_medicine
+Under what circumstances can a private citizen legally use deadly force against another person?,syntax_manipulations,0.09845053516208557,0.5148732,1.0,0.259427660214563,professional_law
+What is the primary role of fiber in the diet?,syntax_manipulations,0.0,0.12295178,1.0,0.8137577683186402,nutrition
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",syntax_manipulations,0.0,0.03880876,0.8333333333333334,0.76782472559974,professional_medicine
+Which of the following is NOT a water-soluble vitamin?,syntax_manipulations,0.4791666666666667,0.8134386,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",syntax_manipulations,0.3194444444444444,0.704592,1.0,0.288386088346888,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,syntax_manipulations,0.08333333333333333,0.529483,0.8333333333333334,0.34305928916290657,professional_medicine
+What is the primary function of mitochondria in a cell?,syntax_manipulations,0.31238953693884763,0.3874506,1.0,0.47067191716662166,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,syntax_manipulations,0.0,0.65022326,0.8333333333333334,0.28629702285025627,college_computer_science
+Which of the following is NOT involved in photosynthesis?,syntax_manipulations,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,syntax_manipulations,0.15151515151515152,0.36094502,1.0,0.6775768530099691,college_computer_science
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.50221497,1.0,0.4640452882879438,high_school_psychology
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.15151515151515152,0.40963927,1.0,0.6259995062592714,college_computer_science
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.04560685033507073,0.42367014,0.8333333333333334,0.3217485106294181,professional_law
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.08747687,1.0,0.8178246946293554,professional_medicine
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.08333333333333333,0.42420638,1.0,0.5759398902071254,professional_medicine
+What is the primary role of fiber in the diet?,negation_based,0.032679738562091505,0.2074577,1.0,0.4632642271883909,nutrition
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.40379968,0.6666666666666666,0.14260638775829745,high_school_physics
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.32241028926103,0.6491847,1.0,0.33462183663510214,professional_law
+What is the primary function of mitochondria in a cell?,negation_based,0.0784422296050203,0.27011704,1.0,0.7697250589544335,high_school_biology
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.39329326,1.0,0.5532526089105286,philosophy
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.3194444444444444,0.75430876,1.0,0.09682996777512624,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.6855555555555556,0.8109582,0.5,0.012355273838331496,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.18269993,1.0,0.14806521060129044,high_school_physics
+Who was the first Emperor of China?,negation_based,0.043859649122807015,0.41511643,0.6666666666666666,0.6294291336114045,high_school_world_history
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.5216049382716049,0.65647817,1.0,0.478357026575853,high_school_world_history
+What is the recency effect in memory?,negation_based,0.5291485287615797,0.68589586,1.0,0.19869793212569534,high_school_psychology
+"According to Kant's categorical imperative, one should:",negation_based,0.10087457761876367,0.3560176,1.0,0.34583671749420963,philosophy
+Who was the first Emperor of China?,negation_based,0.07751937984496125,0.43069014,1.0,0.5757165850172627,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.46363983,0.5,0.1819310275998588,high_school_physics
+What is the primary role of fiber in the diet?,negation_based,0.030303030303030304,0.13244766,1.0,0.33071026687744326,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.2099819448920679,0.6832997,1.0,0.29081903646478074,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.3125,0.8302376,0.8333333333333334,0.2893634367197218,college_computer_science
+What is the recency effect in memory?,negation_based,0.5258500649033193,0.7004233,1.0,0.16235567149772656,high_school_psychology
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.6933333333333334,0.811011,0.5,0.013260557470429942,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.50221497,1.0,0.4640452882879438,high_school_psychology
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.23359859,1.0,0.5136723338371746,professional_medicine
+"According to Kant's categorical imperative, one should:",negation_based,0.11469942586963865,0.39268073,1.0,0.2088069372744251,philosophy
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.42112362,0.8333333333333334,0.3434079108174437,professional_medicine
+What is the primary function of mitochondria in a cell?,negation_based,0.07575757575757576,0.23025982,1.0,0.6293056020033748,high_school_biology
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.1692937,1.0,0.16159372635477268,high_school_physics
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.21693532,1.0,0.27803229001456764,philosophy
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.6556402,1.0,0.38595234991501215,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.3194444444444444,0.75430876,1.0,0.09682996777512624,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.15151515151515152,0.38156953,1.0,0.33792833401366956,college_computer_science
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.25,0.589596,1.0,0.38828516286351095,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.03561253561253561,0.34124947,0.8333333333333334,0.46133565419319106,professional_law
+"According to Kant's categorical imperative, one should:",negation_based,0.08007288070579209,0.37211612,1.0,0.05234510869347675,philosophy
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.34046087,1.0,0.7208963559604591,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.3194444444444444,0.75430876,1.0,0.09682996777512624,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.49980494,1.0,0.3869078977282829,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.22886140295395718,0.639678,1.0,0.29079325426204367,professional_law
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.32150877,0.5,0.41562535151524654,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.10173723,1.0,0.7344837064450922,professional_medicine
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.21723826,0.8333333333333334,0.3973530016373504,high_school_physics
+What is the recency effect in memory?,negation_based,0.46595916625273076,0.72284824,1.0,0.11892954800271986,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.06766917293233084,0.33905056,1.0,0.5195605711264456,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.7538888888888889,0.85670024,0.5,0.07512278021225054,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.38802266,0.8333333333333334,0.24330029741101133,professional_medicine
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.47331977,0.8333333333333334,0.701647182177831,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.0,0.20132041,1.0,0.4120644295259419,college_computer_science
+What is the primary role of fiber in the diet?,negation_based,0.032051282051282055,0.22194819,1.0,0.4992576742179735,nutrition
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.6556402,1.0,0.38595234991501215,high_school_world_history
+Who was the first Emperor of China?,negation_based,0.043859649122807015,0.43538868,0.5,0.603064871072506,high_school_world_history
+What is the primary function of mitochondria in a cell?,negation_based,0.03875968992248063,0.286744,1.0,0.7918454487420054,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.0,0.7196401,0.8333333333333334,0.2694431270240985,college_computer_science
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.3442389612209858,0.75589776,1.0,0.22681916964477908,professional_law
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.36377487,1.0,0.6772639537509949,professional_medicine
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.6855555555555556,0.8109582,0.5,0.012355273838331496,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.0,0.6625387,0.8333333333333334,0.35962764259663826,college_computer_science
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.6556402,1.0,0.38595234991501215,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.30366367,0.6666666666666666,0.42332238390469223,high_school_physics
+What is the primary function of mitochondria in a cell?,negation_based,0.07936507936507937,0.14797638,1.0,0.8539506460045453,high_school_biology
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.03507834757834758,0.3466337,1.0,0.31240088758876094,professional_law
+Who was the first Emperor of China?,negation_based,0.5760995370370371,0.68087167,0.6666666666666666,0.3380168247048801,high_school_world_history
+"According to Kant's categorical imperative, one should:",negation_based,0.10191570881226053,0.40398002,1.0,0.28424067347744536,philosophy
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.5505725,1.0,0.5891989898207936,high_school_biology
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.1926483,1.0,0.21083719509364762,high_school_physics
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.16666666666666666,0.7514135,1.0,0.1666354454872299,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.5,1.0,1.0,0.6709964969575459,college_computer_science
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.20784323,1.0,0.3309372416690812,professional_medicine
+What is the recency effect in memory?,negation_based,0.5637661837965905,0.707068,1.0,0.18517076393028434,high_school_psychology
+What is the primary role of fiber in the diet?,negation_based,0.11574074074074076,0.17863868,1.0,0.4311480254024303,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.5390502,1.0,0.3638384665446712,high_school_psychology
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.33634916,1.0,0.5962221084941101,philosophy
+What is the recency effect in memory?,negation_based,0.5444333746761966,0.69673467,1.0,0.19662079145175482,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.677223,1.0,0.38663448250494725,high_school_world_history
+"According to Kant's categorical imperative, one should:",negation_based,0.12524801587301587,0.3704667,1.0,0.5903149277478927,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.16666666666666666,0.7514135,1.0,0.1666354454872299,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.36066234,0.5,0.2555827842407445,high_school_physics
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.15151515151515152,0.48908162,1.0,0.625570620883666,college_computer_science
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.4503561,1.0,0.4404086799319975,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.022222222222222223,0.33739528,0.8333333333333334,0.5381181260780971,professional_law
+What is the primary function of mitochondria in a cell?,negation_based,0.0,0.107261576,1.0,0.8522944374573872,high_school_biology
+Who was the first Emperor of China?,negation_based,0.0,0.3031443,0.8333333333333334,0.7162886857453327,high_school_world_history
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.29692056072988476,0.7422599,1.0,0.29644068611147045,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.7538888888888889,0.85670024,0.5,0.07512278021225054,high_school_mathematics
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.35043907,1.0,0.5085878898168107,philosophy
+What is the primary role of fiber in the diet?,negation_based,0.0,0.07769789,1.0,0.5798788298998189,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.0,0.7196401,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is Newton's Second Law of Motion?,negation_based,0.024154589371980676,0.18410045,1.0,0.4759821275974067,high_school_physics
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.40343294,1.0,0.262320264166003,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.10564222,1.0,0.5308399029070539,professional_medicine
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.34060407,1.0,0.6670393096680333,philosophy
+"According to Kant's categorical imperative, one should:",negation_based,0.09510569751533608,0.4094324,1.0,0.23652368780159175,philosophy
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+What is the recency effect in memory?,negation_based,0.5450511570210782,0.70478517,1.0,0.18517076393028434,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.6399955,1.0,0.5011065747799144,high_school_world_history
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.5,1.0,1.0,0.6709964969575459,college_computer_science
+What is the primary role of fiber in the diet?,negation_based,0.0,0.15942948,1.0,0.8280059237314088,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.5047663,1.0,0.425666533471796,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.38802266,0.8333333333333334,0.24330029741101133,professional_medicine
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.1388888888888889,0.44971362,0.4444444444444444,0.2705009245480802,high_school_physics
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.7538888888888889,0.85670024,0.5,0.07512278021225054,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.1668371,1.0,0.15472242234234856,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.14653029,1.0,0.5468730765591351,professional_medicine
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.2764581046093651,0.68982476,1.0,0.3242008336938878,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.0,0.7196401,0.8333333333333334,0.2694431270240985,college_computer_science
+What is the primary function of mitochondria in a cell?,negation_based,0.0,0.15337391,1.0,0.8448447268195446,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.03507834757834758,0.35555267,0.8333333333333334,0.3393417913850075,professional_law
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.3194444444444444,0.75430876,1.0,0.09682996777512624,high_school_mathematics
+Who was the first Emperor of China?,negation_based,0.0,0.3551289,0.8333333333333334,0.6737088369993046,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Who was the first Emperor of China?,negation_based,0.0,0.3730781,0.6666666666666666,0.5768226493664822,high_school_world_history
+What is the primary function of mitochondria in a cell?,negation_based,0.0844017094017094,0.17256148,1.0,0.9020773807150418,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.15151515151515152,0.39786544,1.0,0.7232187331155592,college_computer_science
+"According to Kant's categorical imperative, one should:",negation_based,0.0588235294117647,0.313129,1.0,0.3734194402019721,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.21527777777777776,0.68720746,1.0,0.29681158507100597,high_school_mathematics
+What is the recency effect in memory?,negation_based,0.5450511570210782,0.70478517,1.0,0.18517076393028434,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,negation_based,0.22583721516967845,0.6561257,1.0,0.3600431442946109,professional_law
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+What is the primary role of fiber in the diet?,negation_based,0.032051282051282055,0.16793948,1.0,0.3424689964239788,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.0,0.7196401,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.5399968,1.0,0.690788336821691,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.022522522522522525,0.31961796,0.6666666666666666,0.4282328642300582,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,negation_based,0.6855555555555556,0.7703862,0.5,0.08889810712918315,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,negation_based,0.0,0.639527,0.6666666666666666,0.33509373262412057,high_school_physics
+Which of the following is Newton's Second Law of Motion?,negation_based,0.0,0.16599575,1.0,0.11017734604751046,high_school_physics
+The Treaty of Versailles was signed at the end of which war?,negation_based,0.523741690408357,0.677223,1.0,0.38663448250494725,high_school_world_history
+Which philosopher is associated with the concept of the 'social contract'?,negation_based,0.0,0.28822735,1.0,0.43131717328549085,philosophy
+Which of the following is NOT one of Freud's psychosexual stages of development?,negation_based,0.25,0.48438883,1.0,0.38492714865222477,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.4266273,0.8333333333333334,0.2721653930020665,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.17658043,1.0,0.552224974507549,professional_medicine
+Under what circumstances can a private citizen legally use deadly force against another person?,negation_based,0.04525163578548278,0.36306462,0.8333333333333334,0.49224880675872945,professional_law
+What is the primary role of fiber in the diet?,negation_based,0.0,0.10752127,1.0,0.6177841417794383,nutrition
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",negation_based,0.0,0.1747952,1.0,0.436552483241566,professional_medicine
+Which of the following is NOT a water-soluble vitamin?,negation_based,0.9375,1.0,1.0,0.3808274505976672,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",negation_based,0.16666666666666666,0.7514135,1.0,0.1666354454872299,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,negation_based,0.0,0.39381918,1.0,0.262320264166003,professional_medicine
+What is the primary function of mitochondria in a cell?,negation_based,0.07407407407407408,0.11794889,1.0,0.3522714576942609,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,negation_based,0.3125,0.82858723,0.8333333333333334,0.2694431270240985,college_computer_science
+Which of the following is NOT involved in photosynthesis?,negation_based,0.16666666666666666,0.49165025,0.8333333333333334,0.6728924563642712,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,negation_based,0.45454545454545453,0.7090747,1.0,0.3787402105064472,college_computer_science
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.3174603174603175,0.49132836,1.0,0.8044909073973319,high_school_psychology
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.05952380952380953,0.42969278,1.0,0.5844482511459049,college_computer_science
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.03470042547255353,0.42632112,1.0,0.4341376779665018,professional_law
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0,0.24652505,1.0,0.47528407139147894,professional_medicine
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.33386752136752146,0.5872123,1.0,0.3295554193784943,professional_medicine
+What is the primary role of fiber in the diet?,partial_truths,0.10802469135802471,0.33490047,1.0,0.706204197604214,nutrition
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.0,0.52080625,0.5,0.34165390019148906,high_school_physics
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.32875249814608504,0.6614349,1.0,0.3549089544838709,professional_law
+What is the primary function of mitochondria in a cell?,partial_truths,0.35110420979986195,0.50061446,1.0,0.8194705576242862,high_school_biology
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.2314814814814815,0.50608355,1.0,0.5581341436942736,high_school_biology
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.17946933,1.0,0.36518146050491307,philosophy
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.1365237417868997,0.54621726,1.0,0.4359002252162618,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.5671296296296297,0.77628654,1.0,0.30771049272476664,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.0,0.7385008,1.0,0.04728555792249974,college_computer_science
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.7538888888888889,0.83575934,0.5,0.12007491566887225,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.10115185223332303,0.27810082,0.6666666666666666,0.3119231727883592,high_school_physics
+Who was the first Emperor of China?,partial_truths,0.26789935832489026,0.58888274,0.8333333333333334,0.4835144645694936,high_school_world_history
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.23557064203060843,0.3817779,0.8333333333333334,0.5965499261316337,high_school_world_history
+What is the recency effect in memory?,partial_truths,0.5116893955118641,0.70518845,1.0,0.18392676828067336,high_school_psychology
+"According to Kant's categorical imperative, one should:",partial_truths,0.13786008230452676,0.4707233,1.0,0.29534865042853986,philosophy
+Who was the first Emperor of China?,partial_truths,0.08249907304412311,0.44238397,0.6666666666666666,0.32956263893298965,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+What is the primary role of fiber in the diet?,partial_truths,0.029239766081871343,0.20334361,1.0,0.7610344004534083,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.45995120419939756,0.6777716,1.0,0.3506718930070076,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.0,0.41198048,0.8333333333333334,0.3727077133088385,college_computer_science
+What is the recency effect in memory?,partial_truths,0.345605215985509,0.635912,1.0,0.18840456196153157,high_school_psychology
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.625,0.7998112,0.5,0.18336336770309378,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.1626984126984127,0.32774734,1.0,0.8433210018755756,high_school_psychology
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.056497175141242945,0.3767862,1.0,0.403557746834152,professional_medicine
+"According to Kant's categorical imperative, one should:",partial_truths,0.036231884057971016,0.35346112,1.0,0.5957077673165767,philosophy
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.4001696832579187,0.5847984,1.0,0.36073956649275374,professional_medicine
+What is the primary function of mitochondria in a cell?,partial_truths,0.39898989898989895,0.5464898,1.0,0.7351717054662643,high_school_biology
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.059558584875040566,0.24960315,0.6666666666666666,0.2840646622628628,high_school_physics
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.23821019,1.0,0.3971790229180161,philosophy
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.3743166793796085,0.5908367,1.0,0.6707521428613864,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.38752404,0.8333333333333334,0.36315172555848524,high_school_biology
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.47222222222222215,0.7624531,1.0,0.2954243650370299,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.15151515151515152,0.47805086,1.0,0.6388958303113764,college_computer_science
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.11864946647555345,0.44884703,1.0,0.39420311213062026,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.02136752136752137,0.35612747,1.0,0.45538164053971375,professional_law
+"According to Kant's categorical imperative, one should:",partial_truths,0.03745318352059925,0.42033255,1.0,0.5345497358263088,philosophy
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.12826135852451645,0.56350607,0.6666666666666666,0.4189879340828108,nutrition
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.20970349,1.0,0.6031683282918646,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.4382716049382716,0.78559256,1.0,0.28868186822427666,high_school_mathematics
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.3968253968253968,0.632049,1.0,0.7617926214674758,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.2120848713516932,0.6559787,1.0,0.2876960357606162,professional_law
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0,0.25137523,1.0,0.6544627524373133,professional_medicine
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.0,0.18472154,0.8333333333333334,0.39984236316576577,high_school_physics
+What is the recency effect in memory?,partial_truths,0.28384915489587126,0.6499204,1.0,0.2702034860561518,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.02136752136752137,0.34044072,1.0,0.492356356849505,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.625,0.83683175,0.5,0.12007491566887225,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.03703703703703704,0.2896184,1.0,0.45684769701588435,professional_medicine
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.3435918,1.0,0.4744218766233533,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.06666666666666668,0.36775795,1.0,0.6100416966147763,college_computer_science
+What is the primary role of fiber in the diet?,partial_truths,0.031446540880503145,0.17728591,1.0,0.7850734825344164,nutrition
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.13888888888888887,0.3022834,1.0,0.4066326466162855,high_school_world_history
+Who was the first Emperor of China?,partial_truths,0.06666666666666667,0.3713039,0.6666666666666666,0.544232311507369,high_school_world_history
+What is the primary function of mitochondria in a cell?,partial_truths,0.5217773057915487,0.6607159,1.0,0.7606536099400728,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.3125,0.75917035,0.8333333333333334,0.28629702285025627,college_computer_science
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.35738452014521455,0.72436,1.0,0.23214517453133546,professional_law
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.15151515151515152,0.578048,1.0,0.4237052119729587,professional_medicine
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.6933333333333334,0.8039015,0.5,0.15043257341892724,high_school_mathematics
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.050505050505050504,0.2886308,0.611111111111111,0.4016632037401731,college_computer_science
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.1687854902957878,0.41385484,1.0,0.33421343061035397,high_school_world_history
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.0,0.60292935,0.5,0.4375940607440529,high_school_physics
+What is the primary function of mitochondria in a cell?,partial_truths,0.39563594602354296,0.5528541,1.0,0.8743523976209246,high_school_biology
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.14854426619132502,0.41094232,1.0,0.3944896299644976,nutrition
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.05799755799755799,0.34806708,1.0,0.46394800539153636,professional_law
+Who was the first Emperor of China?,partial_truths,0.0925925925925926,0.42828798,0.6666666666666666,0.5497905313489233,high_school_world_history
+"According to Kant's categorical imperative, one should:",partial_truths,0.0992219599615351,0.3857598,1.0,0.48947165998029046,philosophy
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.36980435,0.8333333333333334,0.41949490551327645,high_school_biology
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.073080369809075,0.2137581,0.4444444444444444,0.3228853054784213,high_school_physics
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.47222222222222227,0.7699461,1.0,0.3754484816635437,high_school_mathematics
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.0,0.12959032,1.0,0.5811664634604293,college_computer_science
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0900900900900901,0.3305358,1.0,0.6754977073054933,professional_medicine
+What is the recency effect in memory?,partial_truths,0.44580261034036006,0.6435857,1.0,0.27593896702451154,high_school_psychology
+What is the primary role of fiber in the diet?,partial_truths,0.028248587570621472,0.20173925,1.0,0.6895852651752504,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.24603174603174605,0.3872905,1.0,0.6755781466679598,high_school_psychology
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.23538037,1.0,0.4220552671179237,philosophy
+What is the recency effect in memory?,partial_truths,0.5794278458243812,0.7032898,1.0,0.22351270435008122,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.09114166933162776,0.4407486,1.0,0.3569254706998331,high_school_world_history
+"According to Kant's categorical imperative, one should:",partial_truths,0.09378384232185401,0.40530863,1.0,0.42477454381075025,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.10763888888888888,0.716042,1.0,0.379387924036046,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.30303030303030304,0.61253625,1.0,0.7425450463760744,college_computer_science
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.40201664,0.8333333333333334,0.46900828211320134,high_school_biology
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.3138528138528139,0.4261786,1.0,0.6650569734283501,high_school_psychology
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.0323802541544477,0.4080265,1.0,0.35199385568716496,professional_law
+What is the primary function of mitochondria in a cell?,partial_truths,0.38243006993007,0.65004164,1.0,0.744410831060423,high_school_biology
+Who was the first Emperor of China?,partial_truths,0.13368055555555555,0.4203873,0.8333333333333334,0.45224531152545566,high_school_world_history
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.13289098815414604,0.44231638,1.0,0.43705421509112985,nutrition
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.2976701392165872,0.6549749,1.0,0.23669775863013118,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.6855555555555556,0.8035682,0.5,0.14549204409870106,high_school_mathematics
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.26609135,1.0,0.5659815364808516,philosophy
+What is the primary role of fiber in the diet?,partial_truths,0.0,0.19376902,1.0,0.7520922179437447,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.16891891891891894,0.4961437,0.8333333333333334,0.3260156513803657,college_computer_science
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.06171837421837422,0.23311503,0.6666666666666666,0.37305390728994814,high_school_physics
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.3433404995904996,0.5718747,1.0,0.3921428595471023,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.03787878787878788,0.37764773,1.0,0.4244711478122081,professional_medicine
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.2160623,1.0,0.32862841708014795,philosophy
+"According to Kant's categorical imperative, one should:",partial_truths,0.11248736097067745,0.4078659,1.0,0.4319686539273641,philosophy
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.2225154397346382,0.7108011,1.0,0.5010941573800036,nutrition
+What is the recency effect in memory?,partial_truths,0.2627067653187056,0.6057942,1.0,0.2117663494933414,high_school_psychology
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.0585063085063085,0.26128078,1.0,0.3106557603684668,high_school_world_history
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.45454545454545453,0.76029134,1.0,0.6924700660075249,college_computer_science
+What is the primary role of fiber in the diet?,partial_truths,0.0,0.25827697,1.0,0.7441101929336984,nutrition
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.3174603174603175,0.46322677,1.0,0.7014863243069906,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.2186561561561562,0.40878427,1.0,0.45388879199388993,professional_medicine
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.16666666666666666,0.7047799,0.5,0.5644182583844645,high_school_physics
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.625,0.80217046,0.5,0.17180860839374304,high_school_mathematics
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.0,0.1765358,1.0,0.3000850939984086,high_school_physics
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0,0.13510323,1.0,0.6492942737362388,professional_medicine
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.42901758033851484,0.7408285,1.0,0.42979279378503915,professional_law
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.3125,0.8012884,0.8333333333333334,0.09433396962660572,college_computer_science
+What is the primary function of mitochondria in a cell?,partial_truths,0.3161813423441331,0.34701297,1.0,0.8076946658110126,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.05630814574825913,0.44300863,1.0,0.43963366565005196,professional_law
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.4036458333333333,0.6281722,1.0,0.345873755042277,high_school_mathematics
+Who was the first Emperor of China?,partial_truths,0.13225475089881872,0.42244235,0.6666666666666666,0.581502860479312,high_school_world_history
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.41696748,0.8333333333333334,0.3658428132022154,high_school_biology
+Who was the first Emperor of China?,partial_truths,0.14908976773383553,0.43891382,1.0,0.36554361468524593,high_school_world_history
+What is the primary function of mitochondria in a cell?,partial_truths,0.2782634032634033,0.32235456,1.0,0.7524088111561156,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.30303030303030304,0.65370655,1.0,0.5784210803920579,college_computer_science
+"According to Kant's categorical imperative, one should:",partial_truths,0.1349206349206349,0.41765264,1.0,0.32477945228898414,philosophy
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.3194444444444444,0.74660563,1.0,0.28833276474689423,high_school_mathematics
+What is the recency effect in memory?,partial_truths,0.5052365287953818,0.65253246,1.0,0.3306155774918493,high_school_psychology
+A plaintiff brings a products liability action against the manufacturer of a lawnmower. The plaintiff was injured while using the lawnmower when his foot slipped under the mower. The plaintiff's expert witness testifies that the blade guard was of a type that was more dangerous than alternative designs. The defendant's expert testifies that the blade guard was designed in accordance with government safety regulations. The jury should find for whom?,partial_truths,0.21614107785532455,0.64220977,1.0,0.36581223073135943,professional_law
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.14077425842131727,0.6978498,0.5,0.42804844655028723,nutrition
+What is the primary role of fiber in the diet?,partial_truths,0.029761904761904767,0.23770861,1.0,0.679092129540193,nutrition
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.07575757575757576,0.74884987,1.0,0.03302656133182339,college_computer_science
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.37005568,1.0,0.5777816641104149,high_school_biology
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.02032520325203252,0.37404943,1.0,0.4470722001558228,professional_law
+What is the solution to the system of equations: 2x + y = 5 and x - y = 1?,partial_truths,0.6855555555555556,0.8035682,0.5,0.14549204409870106,high_school_mathematics
+An object with mass m is moving with velocity v. What is its kinetic energy?,partial_truths,0.0,0.66518885,0.5,0.5143869476641956,high_school_physics
+Which of the following is Newton's Second Law of Motion?,partial_truths,0.05071361366981805,0.2714717,0.6666666666666666,0.22888992483412066,high_school_physics
+The Treaty of Versailles was signed at the end of which war?,partial_truths,0.2640234009099424,0.3914083,1.0,0.3593873373617751,high_school_world_history
+Which philosopher is associated with the concept of the 'social contract'?,partial_truths,0.0,0.20772284,1.0,0.33240884719248265,philosophy
+Which of the following is NOT one of Freud's psychosexual stages of development?,partial_truths,0.22727272727272727,0.31231135,1.0,0.5073618152126155,high_school_psychology
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.0,0.31895065,0.6666666666666666,0.6855030856948542,professional_medicine
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0,0.24733104,1.0,0.5664576151992808,professional_medicine
+Under what circumstances can a private citizen legally use deadly force against another person?,partial_truths,0.03421409214092141,0.40997946,1.0,0.39371938788219213,professional_law
+What is the primary role of fiber in the diet?,partial_truths,0.16335978835978837,0.3415258,1.0,0.7632144034638756,nutrition
+"A patient presents with elevated blood pressure, headache, and dizziness. The most appropriate initial diagnostic test would be:",partial_truths,0.0,0.18075289,1.0,0.6018811253869637,professional_medicine
+Which of the following is NOT a water-soluble vitamin?,partial_truths,0.22743059837069554,0.47763073,0.6666666666666666,0.44668816509737375,nutrition
+"If f(x) = 3x² - 2x + 5, what is f'(x)?",partial_truths,0.2638888888888889,0.6941549,1.0,0.38417155705599465,high_school_mathematics
+Which of the following is the most common cause of community-acquired pneumonia?,partial_truths,0.4426619132501486,0.5940349,1.0,0.43750116202768635,professional_medicine
+What is the primary function of mitochondria in a cell?,partial_truths,0.2717391304347826,0.48129022,1.0,0.7778576176010182,high_school_biology
+What is the time complexity of the quicksort algorithm in the average case?,partial_truths,0.0,0.5475655,1.0,0.2710506152757303,college_computer_science
+Which of the following is NOT involved in photosynthesis?,partial_truths,0.0,0.42097536,1.0,0.46079638473156725,high_school_biology
+Which of the following is NOT a principle of object-oriented programming?,partial_truths,0.45454545454545453,0.72701234,1.0,0.6131921236569523,college_computer_science
