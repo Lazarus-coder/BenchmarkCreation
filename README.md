@@ -127,7 +127,7 @@ The overall pipeline consists of the following stages:
 
 ## Repository Structure
 
-'''text
+```text
 .
 ├── data/                # benchmark data, generated distractor sets, intermediate files
 ├── prompts/             # prompt templates for distractor generation
@@ -137,7 +137,7 @@ The overall pipeline consists of the following stages:
 ├── paper/               # report or paper PDF
 └── README.md
 
-'''
+```
 Paper
 
 Evaluating Effect of Distractor Quality in MCQs
@@ -157,10 +157,10 @@ Future Directions
 Citation
 
 If you use this repository, please cite:
-'''
+```
 @misc{jiang2025distractorquality,
   title={Evaluating the Effect of Distractor Quality in MCQs},
   author={Ao Jiang and Sheng Bi and Xinyi Liu},
   year={2025}
 }
-'''
+```
