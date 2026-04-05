@@ -1,107 +1,166 @@
-# Enhanced MMLU Distractor Benchmark
+# Evaluating the Effect of Distractor Quality in MCQs
 
-An expanded benchmark for evaluating Large Language Models on multiple-choice questions with controlled distractors. This project systematically explores how different types of distractors affect LLM performance using psychometric analysis.
+This project studies how distractor quality in multiple-choice questions (MCQs) affects large language model (LLM) performance.  
+Instead of treating distractors as generic incorrect options, we construct a controlled taxonomy of distractor types and evaluate how different kinds of misleading answer choices change model accuracy, calibration, and robustness.
 
-## Project Overview
+## Overview
 
-This benchmark conducts a rigorous evaluation of how different types of distractors (incorrect answer choices) affect the performance of Large Language Models (LLMs) on multiple-choice questions. The project includes:
+Multiple-choice benchmarks are widely used to evaluate language models, but benchmark difficulty is often treated as a property of the question itself rather than the quality of the distractors. This project focuses on that missing dimension.
 
-1. **Expanded Dataset**: 150 questions from diverse MMLU subjects including law, medicine, mathematics, computer science, physics, and more
-2. **Controlled Distractor Generation**: Creates a taxonomy of distractor types with specific properties
-3. **Multi-Model Evaluation**: Tests multiple LLM architectures with confidence scoring and reasoning analysis
-4. **Advanced Analysis**: Applies psychometric analysis, statistical methods, and calibration assessment
+We build a controlled evaluation pipeline on top of the MMLU benchmark and systematically compare how different distractor types influence model behavior across multiple academic and professional domains.
 
-## Key Features
+### Research Questions
 
-- **Distractor Taxonomy**:
-  - Semantic confounders: Similar meaning but factually incorrect
-  - Plausible alternatives: Reasonable but wrong choices
-  - Syntax manipulations: Similar structure but different meaning
-  - Negation-based: Contradict the correct answer
-  - Partial truths: Mix of correct and incorrect information
+- How can distractor quality in MCQs be measured more systematically?
+- How do different distractor types affect LLM performance?
+- Do harder distractors reveal weaknesses that standard benchmarks fail to capture?
 
-- **Enhanced Metrics**:
-  - Confidence scoring and calibration analysis
-  - Thinking time analysis with step-by-step reasoning
-  - Psychometric analysis (using Item Response Theory)
-  - Statistical significance testing with ANOVA
+## Key Contributions
 
-- **Comprehensive Visualization**:
-  - Response time analysis
-  - Confidence calibration diagrams
-  - Distractor effectiveness heatmaps
-  - Reasoning pattern analysis
+- Constructed a balanced **150-question MCQ evaluation set** based on MMLU across diverse subject areas
+- Introduced a controlled taxonomy of **5 distractor types**
+- Built an evaluation workflow for comparing model performance under different distractor conditions
+- Measured not only **accuracy**, but also **confidence calibration**, **response behavior**, and **psychometric properties**
+- Applied **IRT**, **ANOVA**, and visualization-based analysis to identify model vulnerabilities
 
-## Getting Started
+## Distractor Taxonomy
 
-### Prerequisites
+We generate five controlled distractor types:
 
-- Python 3.8+
-- OpenAI API key (set as environment variable)
+1. **Semantic Confounders**  
+   Distractors that are semantically close to the correct answer but subtly wrong
 
-### Installation
+2. **Plausible Alternatives**  
+   Factually incorrect answers that still appear reasonable
 
-1. Clone the repository
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   python -m spacy download en_core_web_sm
-   ```
-3. Set up your OpenAI API key:
-   ```
-   export OPENAI_API_KEY=your_key_here
-   ```
+3. **Syntax Manipulations**  
+   Options that mirror the surface structure of the correct answer while changing meaning
 
-### Running the Benchmark
+4. **Negation-Based Distractors**  
+   Options that negate or contradict the correct answer
 
-To run the complete pipeline:
-```
-python run_experiment.py
-```
+5. **Partial Truths**  
+   Answers that mix correct information with incorrect assertions
 
-With specific stages:
-```
-python run_experiment.py --skip-download --skip-generation
-```
+## Dataset
 
-## Pipeline Stages
+The evaluation set is built from MMLU and includes questions from multiple domains such as:
 
-1. **Dataset Preparation** (`download_mmlu.py`):
-   - Downloads questions from multiple MMLU subjects
-   - Creates a balanced dataset of 150 questions
+- Professional Law
+- Professional Medicine
+- High School Mathematics
+- College Computer Science
+- High School Physics
+- High School Biology
+- Philosophy
+- High School World History
+- High School Psychology
+- Nutrition
 
-2. **Distractor Generation** (`MMLU-DG.py`):
-   - Generates 5 types of controlled distractors
-   - Uses GPT-4o for high-quality distractor creation
+This design allows us to compare distractor effects across both professional and general academic knowledge settings.
 
-3. **Model Evaluation** (`enhanced_test.py`):
-   - Tests multiple OpenAI models (GPT-4o, GPT-4o-mini, GPT-3.5-turbo)
-   - Captures confidence scores and reasoning patterns
+## Evaluated Models
 
-4. **Advanced Analysis** (`advanced_analysis.py`):
-   - Performs psychometric analysis
-   - Runs statistical tests (ANOVA)
-   - Generates visualizations
+We evaluate the following OpenAI models:
 
-## Results
+- **GPT-4o**
+- **GPT-4o-mini**
+- **GPT-3.5-turbo**
 
-Evaluation results are saved in the `evaluation_results/` directory, including:
-- JSON data files with complete evaluation results
-- CSV files with statistical analysis
-- Visualizations in the `figures/` subdirectory
+Each model is tested on:
 
-## Extending the Benchmark
+- the original MMLU-style questions
+- five alternative distractor conditions generated using our taxonomy
 
-- Add more LLM models by updating the `MODELS` list in `enhanced_test.py`
-- Create new distractor types by expanding the `DISTRACTOR_TYPES` dictionary in `MMLU-DG.py`
-- Add additional questions by modifying `download_mmlu.py`
+## Evaluation Dimensions
 
-## Future Work
+This project goes beyond raw accuracy and includes multiple analysis layers:
 
-- Human vs. LLM performance comparison
-- More sophisticated reasoning analysis
-- Distractor generation strategies that target specific weaknesses
+- **Accuracy**
+- **Confidence scores**
+- **Response time**
+- **Expected Calibration Error (ECE)**
+- **Reasoning complexity**
+- **Error typology**
+- **Question difficulty and discrimination via IRT**
+- **Statistical significance via ANOVA and post-hoc testing**
 
-## License
+## Main Findings
 
-[MIT License](LICENSE)
+### 1. Semantic confounders are the most damaging distractor type
+Semantic confounders caused the largest overall performance drop across all evaluated models.
+
+### 2. More capable models are still vulnerable
+Although GPT-4o was more robust than GPT-4o-mini and GPT-3.5-turbo, even stronger models showed substantial degradation under controlled distractor conditions.
+
+### 3. Partial truths are highly discriminative
+Partial-truth distractors provided strong psychometric discrimination, making them especially useful for distinguishing model capability.
+
+### 4. Confidence is often miscalibrated
+Models frequently remained overconfident even when accuracy dropped, especially under more deceptive distractor conditions.
+
+### 5. Benchmark performance is context-sensitive
+The results suggest that MCQ benchmark scores are not fully stable indicators of “true knowledge”; they are significantly affected by distractor design.
+
+## Project Workflow
+
+The overall pipeline consists of the following stages:
+
+1. **Question selection**
+   - sample balanced MCQs from MMLU across multiple domains
+
+2. **Controlled distractor generation**
+   - generate distractors for each taxonomy type using GPT-4o
+
+3. **Benchmark construction**
+   - assemble structured evaluation sets in machine-readable format
+
+4. **Model evaluation**
+   - run multiple LLMs on each distractor condition
+   - collect outputs, confidence, latency, and reasoning traces
+
+5. **Analysis**
+   - compute performance metrics
+   - compare distractor effectiveness
+   - run psychometric and statistical analysis
+   - generate visualizations
+
+## Repository Structure
+
+```text
+.
+├── data/                # benchmark data, generated distractor sets, intermediate files
+├── prompts/             # prompt templates for distractor generation
+├── experiments/         # evaluation scripts and experiment runners
+├── analysis/            # statistical analysis, plots, calibration, IRT, ANOVA
+├── outputs/             # CSV / JSON results and figures
+├── paper/               # report or paper PDF
+└── README.md
+
+
+Paper
+
+Evaluating Effect of Distractor Quality in MCQs
+Ao Jiang, Sheng Bi, Xinyi Liu
+
+Why This Matters
+
+Many LLM benchmarks assume that incorrect options are interchangeable, but this project shows that distractor design changes model performance in measurable and interpretable ways. Controlled distractor generation can therefore serve as a more sensitive tool for probing reasoning robustness, calibration, and domain-specific weakness.
+
+Future Directions
+	•	expand the dataset beyond 150 questions
+	•	include non-OpenAI models for broader comparison
+	•	design distractors targeting causal, temporal, or counterfactual reasoning
+	•	improve automatic metrics for distractor quality
+	•	optimize distractor generation beyond prompt-based methods
+
+Citation
+
+If you use this repository, please cite:
+'''
+@misc{jiang2025distractorquality,
+  title={Evaluating the Effect of Distractor Quality in MCQs},
+  author={Ao Jiang and Sheng Bi and Xinyi Liu},
+  year={2025}
+}
+'''
